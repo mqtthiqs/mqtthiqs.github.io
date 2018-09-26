@@ -23,7 +23,10 @@ plugins:
   - jekyll-feed
 
 collections:
-  music:
+  releases:
+    output: true
+
+future: true
 
 
 # Exclude from processing.
@@ -37,3 +40,10 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: ""
+      type: "releases"
+    values:
+      layout: "release"

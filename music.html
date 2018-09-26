@@ -2,4 +2,27 @@
 layout: default
 ---
 
-- Riots in Brixton: https://www.mixcloud.com/RiotsInBrixton/riots-in-brixton-scene-35-matthias-puech-290118/
+<h2>Releases</h2>
+
+{% assign sorted = site.releases | sort: 'date' | reverse %}
+{% for m in sorted %}
+<figure>
+  <a href="{{m.url}}"><img src="assets/img/{{m.cover}}" alt="{{m.title}}" /></a>
+  <figcaption>
+    <em>{{ m.title }}</em>
+    <br />
+    {{ m.label }}
+    <br />
+    ({{m.medium}}, {{m.date|date: "%B %Y"}})
+  </figcaption>
+</figure>
+{% endfor %}
+
+<h2>Miscellaneous</h2>
+
+<ul>
+  <li>A mix for
+  the <a href="https://www.mixcloud.com/RiotsInBrixton/riots-in-brixton-scene-35-matthias-puech-290118/">Riots
+  in Brixton</a> podcast, commissioned by Vito Lucente
+    </li>
+</ul>

@@ -11,15 +11,12 @@ html, body {
 
 h1, h2, h3, h4, h5 {
     font-weight: 100;
+    margin-bottom: 0.5ex;
 }
 
 h2 { font-size: 400%; }
 h3 { font-size: 200%; }
-h4 {
-    font-size: 150%;
-    margin-top: 1ex;
-    margin-bottom: 0.5ex;
-}
+h4 { font-size: 150%; }
 
 time {
     font-size: 60%;
@@ -78,7 +75,7 @@ header {
 	font-size: 500%;
 	margin: 0;
 	text-align: right;
-	color: white;
+	a { color: white; }
     }
 }
 
@@ -119,10 +116,20 @@ section {
     padding-left: 30%;
     padding-right: 7%;
 
+    p {
+	margin-bottom: 0.5em;
+    }
+
     img.flush-left {
 	margin: 1em 0 1em 0;
 	float: left;
 	width: 100%;
+    }
+
+    img.flush-right {
+	float: right;
+	box-shadow: 1px 2px 2px lightgrey;
+	width: 40%;
     }
 
     article {
@@ -136,11 +143,26 @@ section {
 	}
     }
 
+    // bandcamp embed
+    iframe { margin-top: 2em; }
+
     ul {
 	list-style: none;
 	padding: 0;
     }
-    li::before { content: "— "; margin-right: 0.5em;}
+
+    ul li::before { content: "— "; margin-right: 0.5em;}
+
+    figure {
+	display: inline-block;
+	margin: 15px;
+
+	img {
+	    box-shadow: 1px 2px 2px lightgrey;
+	    width: 200px;
+	    height: 200px;
+	}
+    }
 }
 
 blockquote {
