@@ -3,6 +3,15 @@ layout: default
 title: Press
 ---
 
+## Live
+
+- 100ECS (Paris, 2018)
+- Café OTO (London, 2018)
+- Péripate (Génie d'Alex, Paris, 2017)
+- BASE/Modularsquare (Café de la Presse, Paris, 2016)
+- VENIN (l'Amour, Les Lilas, 2016)
+- CKUT radio (Montréal, 2015)
+
 ## Press
 
 #### Byron Coley (_The Wire_, Issue 406 December 2017)
@@ -76,3 +85,15 @@ Writes about _Purlieu_:
   animals, albeit mutant ones that you may expect to be limned by
   Ballard or Google dream, especially when it all comes together in
   the side-long title track.
+
+## Radio
+
+- September 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html)
+- July 2018: [NTS, Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018)
+- June 2018: [NTS, Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018)
+- July 2018: [Rinse FM, Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel)
+- July 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html)
+- June 2018: [NTS, Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/)
+- June 2018: [Le Mellotron, Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard)
+- November 2017: [Resonance FM, Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/)
+- June 2017: [NTS, Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017)

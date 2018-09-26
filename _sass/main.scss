@@ -25,10 +25,15 @@ time {
     font-size: 60%;
 }
 
+a {
+    color: lightgrey;
+    text-decoration: none;
+}
+
 %headfoot {
     position: fixed;
-    opacity: 0.9;
-    filter: alpha(opacity=90); /* For IE8 and earlier */
+    opacity: 0.85;
+    filter: alpha(opacity=85); /* For IE8 and earlier */
     width: 100%;
     background-image: url("/assets/img/background.jpg");
     background-size: 100%;
@@ -57,10 +62,9 @@ header {
 	    color: white;
 	    height: 1em;
 	    padding: 0.5em 1em;
-	    opacity: 0.9;
-	    filter: alpha(opacity=90); /* For IE8 and earlier */
+	    opacity: 0.85;
+	    filter: alpha(opacity=85); /* For IE8 and earlier */
 
-	    
 	    a {
 		text-transform: uppercase;
 		text-decoration: none;
@@ -90,10 +94,21 @@ footer {
     p {
 	font-size: 80%;
 	width: 100%;
-	position: absolute;
 	text-align: right;
-	bottom: 2px;
-	right: 2px;
+    }
+
+    img {
+	width: 32px;
+	height: 32px;
+	-webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+	filter: invert(100%);
+	padding: 10px;
+    }
+
+    #social, p {
+	position: absolute;
+	top: 50%; /* poussé de la moitié de hauteur du référent */
+	transform: translateY(-50%); /* tiré de la moitié de sa propre hauteur */
     }
 }
 
@@ -104,9 +119,10 @@ section {
     padding-left: 30%;
     padding-right: 7%;
 
-    a {
-	color: lightgrey;
-	text-decoration: none;
+    img.flush-left {
+	margin: 1em 0 1em 0;
+	float: left;
+	width: 100%;
     }
 
     article {
@@ -119,6 +135,12 @@ section {
 	    height: 150px;
 	}
     }
+
+    ul {
+	list-style: none;
+	padding: 0;
+    }
+    li::before { content: "— "; margin-right: 0.5em;}
 }
 
 blockquote {
