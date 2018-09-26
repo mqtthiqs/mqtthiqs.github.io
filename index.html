@@ -1,0 +1,15 @@
+---
+layout: default
+title: News
+---
+
+<h2>News</h2>
+
+{% for post in site.posts %}
+<article>
+  <img src="assets/img/{{ post.img }}" alt="{{post.title}}"/>
+  <h4>{{ post.title | markdownify }}</h4>
+  <time>{{ post.date | date_to_string }}</time>
+  <p>{{ post.content }}</p>
+</article>
+{% endfor %}

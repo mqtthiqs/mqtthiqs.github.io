@@ -1,0 +1,12 @@
+---
+title:  "New album _Alpestres_, pre-order open"
+date:   2018-09-25 17:00:00 +0200
+img: alpestres-cover.jpg
+---
+
+My newest album _Alpestres_, will be released on November 9 on labels
+[Hands in the Dark](https://handsinthedarkrecords.bandcamp.com/album/alpestres) (LP/digital)
+and [Obsolete Future](https://obsoletefuture.bandcamp.com/album/alpestres-of016) (CS). A huge
+thanks goes to all the people involved in this long-standing
+project. Pre-orders start today; you can already listen to and
+download the first single _Talausblick vom Hohlichtpass_.

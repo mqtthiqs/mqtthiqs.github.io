@@ -1,0 +1,130 @@
+
+
+* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 100;
+}
+
+h2 { font-size: 400%; }
+h3 { font-size: 200%; }
+h4 {
+    font-size: 150%;
+    margin-top: 1ex;
+    margin-bottom: 0.5ex;
+}
+
+time {
+    font-size: 60%;
+}
+
+%headfoot {
+    position: fixed;
+    opacity: 0.9;
+    filter: alpha(opacity=90); /* For IE8 and earlier */
+    width: 100%;
+    background-image: url("/assets/img/background.jpg");
+    background-size: 100%;
+}
+
+header {
+    @extend %headfoot;
+    top: 0;
+    height: 30%;
+    background-position: top;
+
+    nav {
+	position: absolute;
+	bottom: 0;
+	font-size: 90%;
+
+	ul {
+	    margin: 0;
+	    padding: 0;
+	    list-style: none;
+	}
+
+	li {
+	    display: inline-block;
+	    background-color: black;
+	    color: white;
+	    height: 1em;
+	    padding: 0.5em 1em;
+	    opacity: 0.9;
+	    filter: alpha(opacity=90); /* For IE8 and earlier */
+
+	    
+	    a {
+		text-transform: uppercase;
+		text-decoration: none;
+		color: white;
+	    }
+
+	}
+    }
+
+    h1 {
+	font-size: 500%;
+	margin: 0;
+	text-align: right;
+	color: white;
+    }
+}
+
+footer {
+    @extend %headfoot;
+    background-size: 100% auto;
+    background-position: bottom;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    color: white;
+
+    p {
+	font-size: 80%;
+	width: 100%;
+	position: absolute;
+	text-align: right;
+	bottom: 2px;
+	right: 2px;
+    }
+}
+
+section {
+    background-color: white;
+    margin-top: 30%;
+    margin-bottom: 10%;
+    padding-left: 30%;
+    padding-right: 7%;
+
+    a {
+	color: lightgrey;
+	text-decoration: none;
+    }
+
+    article {
+	clear: both;
+	margin-top: 1ex;
+	border-top: 1px solid lightgrey;
+	img {
+	    float: right;
+	    width: 150px;
+	    height: 150px;
+	}
+    }
+}
+
+blockquote {
+    margin-left: 2em;
+    font-style: italic;
+
+    p::before { content: "“ "; }
+    p::after { content: " ”"; }
+}
