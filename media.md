@@ -6,6 +6,7 @@ title: Press
 ## Live
 
 - 100ECS (Paris, 2018)
+- Marcel Festival, Péniche Adélaïde (Paris, 2018)
 - Café OTO (London, 2018)
 - Péripate (Génie d'Alex, Paris, 2017)
 - BASE/Modularsquare (Café de la Presse, Paris, 2016)
@@ -92,6 +93,11 @@ I gave [a long
 interview](http://www.horizontalpitch.com/2018/06/matthias-puech-explicit-intentions/)
 to [Hannes Pasqualini](https://www.papernoise.net/) for his blog
 [Horizontal Pitch](http://www.horizontalpitch.com/) in June 2018.
+
+#### SawUp interview
+
+I gave a video interview, a tutorial and an improvised live performance for the
+[new course on modular synth](https://www.sawup.fr/courses/take/apprendre-synthe-modulaire/) for the [SawUp](https://www.sawup.fr/) online music teaching platform.
 
 ## Radio
 

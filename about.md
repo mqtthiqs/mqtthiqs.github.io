@@ -6,7 +6,7 @@ title: About
 ## About
 
 Matthias Puech is a sound artist, designer, programmer, researcher and
-teacher from Paris. He nourishes on a dual fascination between natural
+teacher from Paris. He nourishes a dual fascination between natural
 phenomena and mathematical concepts. His compositions, contemplative
 stills of imaginary landscapes, intend to blur the distinction between
 sound synthesis and field recording, transporting the listener amidst
@@ -26,5 +26,3 @@ commercializes his creations (e.g., the 4ms Tapographic Delay).
 <img class="flush-left"
      src="assets/img/portrait2.jpg"
 	alt="Credit: jjgfree" />
-
-&nbsp;
