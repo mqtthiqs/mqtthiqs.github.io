@@ -26,3 +26,5 @@ commercializes his creations (e.g., the 4ms Tapographic Delay).
 <img class="flush-left"
      src="assets/img/portrait2.jpg"
 	alt="Credit: jjgfree" />
+
+&nbsp;

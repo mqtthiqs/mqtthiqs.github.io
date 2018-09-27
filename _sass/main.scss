@@ -27,6 +27,14 @@ a {
     text-decoration: none;
 }
 
+blockquote {
+    margin-left: 2em;
+    font-style: italic;
+
+    p::before { content: "“ "; }
+    p::after { content: " ”"; }
+}
+
 %headfoot {
     position: fixed;
     opacity: 0.85;
@@ -89,7 +97,7 @@ footer {
     color: white;
 
     p {
-	font-size: 80%;
+	font-size: 90%;
 	width: 100%;
 	text-align: right;
     }
@@ -128,8 +136,12 @@ section {
 
     img.flush-right {
 	float: right;
-	box-shadow: 1px 2px 2px lightgrey;
 	width: 40%;
+    }
+
+    img.flush-right-smaller {
+	float: right;
+	width: 20%;
     }
 
     article {
@@ -163,12 +175,4 @@ section {
 	    height: 200px;
 	}
     }
-}
-
-blockquote {
-    margin-left: 2em;
-    font-style: italic;
-
-    p::before { content: "“ "; }
-    p::after { content: " ”"; }
 }

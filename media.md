@@ -30,7 +30,7 @@ Writes about _A Year of Time_:
 
 #### The Wire Tapper #44 (The Wire Issue 402)
 
-The track “Badalisc” was included in [The Wire Magazine's CD
+The track “Badalisc” was part of [The Wire Magazine's CD
 compilation](https://www.thewire.co.uk/audio/the-wire-tapper/the-wire-tapper-44)
 included with Issue 402 (August 2017)
 
@@ -86,13 +86,20 @@ Writes about _Purlieu_:
   Ballard or Google dream, especially when it all comes together in
   the side-long title track.
 
+#### Horizonta Pitch interview
+
+I gave [a long
+interview](http://www.horizontalpitch.com/2018/06/matthias-puech-explicit-intentions/)
+to [Hannes Pasqualini](https://www.papernoise.net/) for his blog
+[Horizontal Pitch](http://www.horizontalpitch.com/) in June 2018.
+
 ## Radio
 
 - September 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html)
 - July 2018: [NTS, Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018)
-- June 2018: [NTS, Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018)
 - July 2018: [Rinse FM, Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel)
 - July 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html)
+- June 2018: [NTS, Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018)
 - June 2018: [NTS, Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/)
 - June 2018: [Le Mellotron, Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard)
 - November 2017: [Resonance FM, Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/)
