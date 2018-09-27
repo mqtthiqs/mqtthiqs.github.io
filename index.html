@@ -8,8 +8,11 @@ title: News
 {% for post in site.posts %}
 <article>
   <img src="assets/img/{{ post.img }}" alt="{{post.title}}"/>
-  <h4>{{ post.title | markdownify }}</h4>
-  <time>{{ post.date | date_to_string }}</time>
-  <p>{{ post.content }}</p>
+  <h4>
+    <time>{{ post.date | date_to_string }}</time>
+    &nbsp;
+    {{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}
+  </h4>
+  {{ post.content }}
 </article>
 {% endfor %}
