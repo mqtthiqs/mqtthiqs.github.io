@@ -24,6 +24,24 @@ paths, and much more.
 
 <div style="clear: both;"></div>
 
+<a href="http://mqtthiqs.github.io/parasites/">
+  <img class="flush-right-smaller"
+       src="assets/img/parasites.jpg"
+       alt="Parasites" />
+</a>
+
+### Parasites
+
+Developed [four open-source alternative pieces of
+firmware](http://mqtthiqs.github.io/parasites/) for Eurorack modules
+from [Mutable Instruments](https://mutable-instruments.net/), changing
+their primary function and adding new features.
+
+(2015-2016)
+
+
+<div style="clear: both;"></div>
+
 <a href="http://xaocdevices.com/main/batumi/">
   <img class="flush-right-smaller"
        src="assets/img/batumi.png"
@@ -40,20 +58,3 @@ functionality. The open-source code can be found
 [here](https://github.com/xaocdevices/batumi).
 
 (2016)
-
-<div style="clear: both;"></div>
-
-<a href="http://mqtthiqs.github.io/parasites/">
-  <img class="flush-right-smaller"
-       src="assets/img/parasites.jpg"
-       alt="Parasites" />
-</a>
-
-### Parasites
-
-Developed [four open-source alternative pieces of
-firmware](http://mqtthiqs.github.io/parasites/) for Eurorack modules
-from [Mutable Instruments](https://mutable-instruments.net/), changing
-their primary function and adding new features.
-
-(2015-2016)
