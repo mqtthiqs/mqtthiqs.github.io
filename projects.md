@@ -26,7 +26,7 @@ paths, and much more.
 
 <a href="http://mqtthiqs.github.io/parasites/">
   <img class="flush-right-smaller"
-       src="assets/img/parasites.jpg"
+       src="assets/img/parasites.png"
        alt="Parasites" />
 </a>
 
