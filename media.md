@@ -15,6 +15,22 @@ title: Press
 
 ## Press
 
+#### _Self-titled_ premiere (September 2018)
+
+[Premiered a
+title](http://www.self-titledmag.com/2018/09/26/matthias-puech-alpestres-album/)
+from _Alpestres_:
+
+> Matthias Puech has signed to Hands in the Dark for his new album
+  Alpestres, a deeply immersive meditation on Europe’s most stunning
+  mountain range. Not to mention how nature is as likely to comfort as
+  to kill you. In the following exclusive, we share its lead single
+  along with Puech’s thoughts on the project, which will be unveiled
+  in full on November 9th along with a limited tape edition on
+  Obsolete Future….
+
+
+
 #### Byron Coley (_The Wire_, Issue 406 December 2017)
 
 Writes about _A Year of Time_:
@@ -29,13 +45,13 @@ Writes about _A Year of Time_:
   this tape visits previously explored quadrants in new ways. Quite an
   accomplishment.
 
-#### The Wire Tapper #44 (The Wire Issue 402)
+#### The Wire Tapper #44 (_The Wire_ Issue 402)
 
 The track “Badalisc” was part of [The Wire Magazine's CD
 compilation](https://www.thewire.co.uk/audio/the-wire-tapper/the-wire-tapper-44)
 included with Issue 402 (August 2017)
 
-#### Georges McVicar (Stray Landings)
+#### Georges McVicar (_Stray Landings_)
 
 [Writes about _Threshold_](http://straylandings.co.uk/reviews/threshold):
 
