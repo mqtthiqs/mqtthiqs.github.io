@@ -15,7 +15,7 @@ title: Press
 
 ## Press
 
-#### _Self-titled_ premiere (September 2018)
+#### _Self-titled_ exclusive (September 2018)
 
 [Premiered a
 title](http://www.self-titledmag.com/2018/09/26/matthias-puech-alpestres-album/)
@@ -28,7 +28,6 @@ from _Alpestres_:
   along with Puech’s thoughts on the project, which will be unveiled
   in full on November 9th along with a limited tape edition on
   Obsolete Future….
-
 
 
 #### Byron Coley (_The Wire_, Issue 406 December 2017)
