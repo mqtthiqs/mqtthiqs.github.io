@@ -126,3 +126,31 @@ I gave a video interview, a tutorial and an improvised live performance for the
 - June 2018: [Le Mellotron, Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard)
 - November 2017: [Resonance FM, Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/)
 - June 2017: [NTS, Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017)
+
+#### Revue & Corrigée (Cyrille Lanoë, October 2017)
+
+> Matthias PUECH propose un maxi vinyle 4 titres de musique organique
+  et analogique. [...] Matthias est un artiste parisien que je ne
+  connaissais pas encore. La missive est toute en ondulation et lorgne
+  souvent vers des sonorités électroacoustiques proche de Pierre
+  Henry, voire du krautrock, ce qui intensifie un peu plus le penchant
+  de beaucoup de disques du genre en ce moment, à mon goût
+  évidemment. Le titre « The moth song » sonnerait presque comme les
+  débuts des anglais Seefeel, « Lament » démarre avec du field
+  recordings pour aller vers un traitement en filtres stratifiés, pour
+  une musique modulaire aux électroniques triées sur le volet. Un
+  début encourageant.
+
+#### Sound on Sound (Paul Nagle, May 2018)
+
+Review of the [Tapographic Delay](https://www.soundonsound.com/reviews/4ms-tapographic-delay)
+
+#### Electronic Musician (Gino Robair, April 2018)
+
+Review of the [Tapographic
+Delay](https://www.emusician.com/gear/mod-squad-4ms-mattias-puech-tapographic-delay)
+
+#### Cassette Gods (November 2017)
+
+Review of [A Year of
+Time](http://cassettegods.blogspot.com/2017/11/matthias-puech-year-of-time-c40-hyle.html)

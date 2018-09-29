@@ -1,9 +1,15 @@
 
-$header-height: 20em;
+$header-height: 16em;
 $footer-height: 5em;
 
 * {
     margin: 0;
+}
+
+html {
+    background-image: url("/assets/img/cahier.jpg");
+    // background-repeat: no-repeat;
+    // background-size: 100%;
 }
 
 html, body {
@@ -120,7 +126,6 @@ footer {
 }
 
 section {
-    background-color: white;
     margin-top: $header-height + 5em;
     margin-bottom: $footer-height;
     padding-left: 25%;
@@ -172,7 +177,6 @@ section {
 	margin: 15px;
 
 	img {
-	    box-shadow: 1px 2px 2px lightgrey;
 	    width: 200px;
 	    height: 200px;
 	}

@@ -6,8 +6,8 @@ title: About
 ## About
 
 Matthias Puech is a composer, designer, programmer, researcher and
-teacher from Paris. From a scientific background, he nourishes a dual
-fascination for natural phenomena and mathematical concepts. His
+teacher born in Paris. From a scientific background, he nourishes a
+dual fascination for natural phenomena and mathematical concepts. His
 compositions, contemplative stills of imaginary landscapes, intend to
 blur the distinction between sound synthesis and field recording,
 transporting the listener amidst invented ecosystems. Puech designs
