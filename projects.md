@@ -22,6 +22,13 @@ paths, and much more.
 
 (2016–2017)
 
+- [Sound on Sound
+  review](https://www.soundonsound.com/reviews/4ms-tapographic-delay)
+  (Paul Nagle, May 2018)
+- [Electronic Musician
+  review](https://www.emusician.com/gear/mod-squad-4ms-mattias-puech-tapographic-delay)
+  (Gino Robair, April 2018)
+
 <div style="clear: both;"></div>
 
 <a href="http://mqtthiqs.github.io/parasites/">
