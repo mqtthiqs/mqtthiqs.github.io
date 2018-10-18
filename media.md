@@ -15,6 +15,18 @@ title: Press
 
 ## Press
 
+### _Tiny Mix Tape_ exclusive (October 2018)
+
+[Premiered a
+title](https://www.tinymixtapes.com/news/modular-mountaineer-matthias-puech-release-alpestres-premieres-track-un-incontro-notturno)
+from _Alpestres_:
+
+### _Libération_ exclusive in *Le Son du Jour* (October 2018)
+
+[Premiered a
+title](https://next.liberation.fr/musique/2018/10/03/son-du-jour-292-culminant-comme-matthias-puech_1682646)
+from _Alpestres_:
+
 #### _Self-titled_ exclusive (September 2018)
 
 [Premiered a
