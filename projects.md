@@ -22,6 +22,31 @@ paths, and much more.
 
 (2016–2017)
 
+- [Sound on Sound
+  review](https://www.soundonsound.com/reviews/4ms-tapographic-delay)
+  (Paul Nagle, May 2018)
+- [Electronic Musician
+  review](https://www.emusician.com/gear/mod-squad-4ms-mattias-puech-tapographic-delay)
+  (Gino Robair, April 2018)
+
+<div style="clear: both;"></div>
+
+<a href="http://mqtthiqs.github.io/parasites/">
+  <img class="flush-right-smaller"
+       src="assets/img/parasites.png"
+       alt="Parasites" />
+</a>
+
+### Parasites
+
+Developed [four open-source alternative pieces of
+firmware](http://mqtthiqs.github.io/parasites/) for Eurorack modules
+from [Mutable Instruments](https://mutable-instruments.net/), changing
+their primary function and adding new features.
+
+(2015-2016)
+
+
 <div style="clear: both;"></div>
 
 <a href="http://xaocdevices.com/main/batumi/">
@@ -40,20 +65,3 @@ functionality. The open-source code can be found
 [here](https://github.com/xaocdevices/batumi).
 
 (2016)
-
-<div style="clear: both;"></div>
-
-<a href="http://mqtthiqs.github.io/parasites/">
-  <img class="flush-right-smaller"
-       src="assets/img/parasites.jpg"
-       alt="Parasites" />
-</a>
-
-### Parasites
-
-Developed [four open-source alternative pieces of
-firmware](http://mqtthiqs.github.io/parasites/) for Eurorack modules
-from [Mutable Instruments](https://mutable-instruments.net/), changing
-their primary function and adding new features.
-
-(2015-2016)

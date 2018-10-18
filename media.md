@@ -15,7 +15,43 @@ title: Press
 
 ## Press
 
-#### Byron Coley (_The Wire_, Issue 406 December 2017)
+#### _Self-titled_ exclusive (September 2018)
+
+[Premiered a
+title](http://www.self-titledmag.com/2018/09/26/matthias-puech-alpestres-album/)
+from _Alpestres_:
+
+> Matthias Puech has signed to Hands in the Dark for his new album
+  Alpestres, a deeply immersive meditation on Europe’s most stunning
+  mountain range. Not to mention how nature is as likely to comfort as
+  to kill you. In the following exclusive, we share its lead single
+  along with Puech’s thoughts on the project, which will be unveiled
+  in full on November 9th along with a limited tape edition on
+  Obsolete Future….
+
+#### Horizonta Pitch interview (June 2018)
+
+I gave [a long
+interview](http://www.horizontalpitch.com/2018/06/matthias-puech-explicit-intentions/)
+to [Hannes Pasqualini](https://www.papernoise.net/) for his blog
+[Horizontal Pitch](http://www.horizontalpitch.com/).
+
+#### Sound on Sound (Paul Nagle, May 2018)
+
+Review of the [Tapographic Delay](https://www.soundonsound.com/reviews/4ms-tapographic-delay)
+
+#### Electronic Musician (Gino Robair, April 2018)
+
+Review of the [Tapographic
+Delay](https://www.emusician.com/gear/mod-squad-4ms-mattias-puech-tapographic-delay)
+
+#### SawUp interview (April 2018)
+
+I gave a video interview, a tutorial and an improvised live performance for the
+[new course on modular synth](https://www.sawup.fr/courses/take/apprendre-synthe-modulaire/) for the [SawUp](https://www.sawup.fr/) online music teaching platform.
+
+
+#### _The Wire_ (Byron Coley,, Issue 406 December 2017)
 
 Writes about _A Year of Time_:
 
@@ -29,13 +65,56 @@ Writes about _A Year of Time_:
   this tape visits previously explored quadrants in new ways. Quite an
   accomplishment.
 
-#### The Wire Tapper #44 (The Wire Issue 402)
+#### The Wire Tapper #44 (_The Wire_ Issue 402)
 
 The track “Badalisc” was part of [The Wire Magazine's CD
 compilation](https://www.thewire.co.uk/audio/the-wire-tapper/the-wire-tapper-44)
 included with Issue 402 (August 2017)
 
-#### Georges McVicar (Stray Landings)
+#### Boomkat
+
+Writes about _Purlieu_:
+
+> Panatype’s 4th physical release is an absorbing suite of electronica
+  uniquely gelling ideas from 4th world ambience, Artificial
+  Intelligence and Virtual Reality in four lushly detailed scenes.
+  Conceived in pursuit of an aesthetic that seeks to “blur the line
+  between field recordings and synthesis in order to render invented
+  and impossible landscapes”, Puech’s first release for Panatype
+  extends an immersive invitation to his singular, simulated
+  dimensions. Using mostly modular synth, coupled with self-built
+  devices, Puech plots out his imaginary world in electronic
+  filigree. Blended with inspiration from the overgrowing chaos and
+  mathematic logic of nature in a similar way to the Transflora
+  project, his works are self-contained environments that could be
+  considered different aspects of the same, alternate world. As with
+  nature, Puech’s music can veer from modest beauty to barely
+  controlled attacks on the senses, with his favoured, extended
+  palette of machines enabling him to emulate the complex sounds of
+  animals, albeit mutant ones that you may expect to be limned by
+  Ballard or Google dream, especially when it all comes together in
+  the side-long title track.
+
+#### Cassette Gods (November 2017)
+
+Review of [A Year of
+Time](http://cassettegods.blogspot.com/2017/11/matthias-puech-year-of-time-c40-hyle.html)
+
+#### Revue & Corrigée (Cyrille Lanoë, October 2017)
+
+> Matthias PUECH propose un maxi vinyle 4 titres de musique organique
+  et analogique. [...] Matthias est un artiste parisien que je ne
+  connaissais pas encore. La missive est toute en ondulation et lorgne
+  souvent vers des sonorités électroacoustiques proche de Pierre
+  Henry, voire du krautrock, ce qui intensifie un peu plus le penchant
+  de beaucoup de disques du genre en ce moment, à mon goût
+  évidemment. Le titre « The moth song » sonnerait presque comme les
+  débuts des anglais Seefeel, « Lament » démarre avec du field
+  recordings pour aller vers un traitement en filtres stratifiés, pour
+  une musique modulaire aux électroniques triées sur le volet. Un
+  début encourageant.
+
+#### _Stray Landings_ (Georges McVicar, Feb 2017)
 
 [Writes about _Threshold_](http://straylandings.co.uk/reviews/threshold):
 
@@ -63,44 +142,9 @@ programming harmony […] a cybernetic forest filled with pines and
 electronics where deer stroll peacefully past computers as if they
 were flowers with spinning blossoms…”
 
-#### Boomkat
-
-Writes about _Purlieu_:
-
-> Panatype’s 4th physical release is an absorbing suite of electronica
-  uniquely gelling ideas from 4th world ambience, Artificial
-  Intelligence and Virtual Reality in four lushly detailed scenes.
-  Conceived in pursuit of an aesthetic that seeks to “blur the line
-  between field recordings and synthesis in order to render invented
-  and impossible landscapes”, Puech’s first release for Panatype
-  extends an immersive invitation to his singular, simulated
-  dimensions. Using mostly modular synth, coupled with self-built
-  devices, Puech plots out his imaginary world in electronic
-  filigree. Blended with inspiration from the overgrowing chaos and
-  mathematic logic of nature in a similar way to the Transflora
-  project, his works are self-contained environments that could be
-  considered different aspects of the same, alternate world. As with
-  nature, Puech’s music can veer from modest beauty to barely
-  controlled attacks on the senses, with his favoured, extended
-  palette of machines enabling him to emulate the complex sounds of
-  animals, albeit mutant ones that you may expect to be limned by
-  Ballard or Google dream, especially when it all comes together in
-  the side-long title track.
-
-#### Horizonta Pitch interview
-
-I gave [a long
-interview](http://www.horizontalpitch.com/2018/06/matthias-puech-explicit-intentions/)
-to [Hannes Pasqualini](https://www.papernoise.net/) for his blog
-[Horizontal Pitch](http://www.horizontalpitch.com/) in June 2018.
-
-#### SawUp interview
-
-I gave a video interview, a tutorial and an improvised live performance for the
-[new course on modular synth](https://www.sawup.fr/courses/take/apprendre-synthe-modulaire/) for the [SawUp](https://www.sawup.fr/) online music teaching platform.
-
 ## Radio
 
+- September 2018: [LYL Radio, Hands on Deck](http://lyl.live/show/hands-on-deck/)
 - September 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html)
 - July 2018: [NTS, Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018)
 - July 2018: [Rinse FM, Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel)
