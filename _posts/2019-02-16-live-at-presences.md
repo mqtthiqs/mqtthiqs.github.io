@@ -4,7 +4,7 @@ date:   2019-02-16 22:00:00 +0200
 img: agora.png
 ---
 
-Radio France's festival _Présence_, with support from INA-GRM,
+Radio France's festival _Présences_ 2019, with support from INA-GRM,
 commissioned an original live performance. I will be [playing this new
 piece on Feb
 16](https://www.maisondelaradio.fr/evenement/musique-contemporaine/concert-performance-n11/festival-presences-2019)
