@@ -88,6 +88,32 @@ from _Digital in Berlin_
 
 [Premiered a title](https://www.orbmag.com/music/premiere/matthias-puech-sculpte-au-fond-de-la-fontaine-un-visage-denfant/) from _Alpestres_.
 
+### _Tiny Mix Tape_ exclusive (October 2018)
+
+[Premiered a
+title](https://www.tinymixtapes.com/news/modular-mountaineer-matthias-puech-release-alpestres-premieres-track-un-incontro-notturno)
+from _Alpestres_:
+
+> Alpestres plays like the inverse of René Daumal’s great, unfinished
+  Mount Analogue novel: the book positing an actual climb up an
+  allegorical mountain vs. a soundtrack to an imaginary summit of the
+  Alps (which I hear are real).
+
+### _Libération_ exclusive in *Le Son du Jour* (October 2018)
+
+[Premiered a
+title](https://next.liberation.fr/musique/2018/10/03/son-du-jour-292-culminant-comme-matthias-puech_1682646)
+from _Alpestres_:
+
+> Toute douce, puis d'oscillations en nappes organiques,
+  l'électronique balade de synthé, dont le musicien conçoit lui-même
+  les modules, se mue en un hymne frénétique d'aciérie fantastique qui
+  perdrait tout contrôle, «non planifiée comme une partition, non»
+  nous précise le musicien qui nous évoque un morceau «à la forme
+  bosselée d'une montagne». Et nous qui au diapason de son évolution,
+  embrassons pleinement sa courbe, avalons son pic et encaissons, ivre
+  de tout, son avalaison.
+
 #### _Self-titled_ exclusive (September 2018)
 
 [Premiered a
