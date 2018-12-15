@@ -5,15 +5,88 @@ title: Press
 
 ## Live
 
-- 100ECS (Paris, 2018)
-- Marcel Festival, Péniche Adélaïde (Paris, 2018)
-- Café OTO (London, 2018)
-- Péripate (Génie d'Alex, Paris, 2017)
-- BASE/Modularsquare (Café de la Presse, Paris, 2016)
+- Festival Présences, Maison de la Radio (Paris, 16 Feb 2019)
+- Quasi-stellar Object #2, 100ECS (Paris, Oct 2018)
+- Hylé night, 100ECS (Paris, Jul 2018)
+- Marcel Festival, Péniche Adélaïde (Paris, Jun 2018)
+- Café OTO (London, May 2018)
+- Péripate (Génie d'Alex, Paris, Nov 2017)
+- BASE/Modularsquare (Café de la Presse, Paris, Jul 2016)
 - VENIN (l'Amour, Les Lilas, 2016)
 - CKUT radio (Montréal, 2015)
 
 ## Press
+
+#### New Noise, [Issue 46](http://www.noisemag.net/new-noise-46-en-kiosque-dans-une-dizaine-de-jours/) (Nov-Dec 2018)
+
+Reviews _Alpestres_:
+
+> À l'écoute d'_Alpestres_, on est saisi par le sens du détail
+justement et par la façon dont Puech développe un univers personnel
+captivant. Il est d'ailleurs plus que recommandé de le découvrir au
+casque, tant le moindre chuintement participe à la perception générale
+des morceaux, et tant le mix panoramique immerge et désoriente
+l'auditeur. Avec la nature de la montagne au coeur du disque, on
+découvre au gré des pistes un tableau oscillant entre douceur et
+violence des éléments des Alpes suisses (un bouillonnant "Talausblick
+vom Hohlichtpass") ou le folklore local (l'inquiétant "Krampus", le
+rampant "Flucht des Tatzelwurmes" ou le plus ambigu "Tchäggätta"). Les
+couches synthétiques s'entremêlent aux field recordings et aux
+bourdonnements retentissants faisant d'_Alpestres_ un objet mouvant et
+complexe.
+
+#### Electonic Sound Magazine, [Issue 47](https://electronicsound.co.uk/product/issue-47-print-edition/) (December 2018)
+
+Reviews _Alpestres_:
+
+> Ascending from crisp climatic ambience, Parisian Matthias Puech
+  teases electronic textures that feel as though they have emerged
+  from water and stone. ‘Alpestres’ is not so much about the
+  physicality of the mountainous landscape he tries to depict –
+  rather, the less tangible sensation of having experienced it. While
+  ‘Badalisc’ maintains the optimism of past exhilarations, Puech also
+  provides moments of solid tension (see album highlight ‘Krampus’),
+  which lend a much-needed balance, given the artist’s source
+  material.
+
+#### [L'Ombre sur la Mesure](http://ombresurlamesure.com/matthias-puech-alpestres/) (December 2018)
+
+Reviews _Alpestres_:
+
+> Même en pesant mes mots et ma passion, Alpestres est un album
+  littéralement sidérant. Un monde englouti où se ravivent les miettes
+  de l’enfance. Une véritable randonnée céleste, source de jouvence.
+
+#### [Polifonia](https://polifonia.blog.polityka.pl/2018/11/13/francuski-system-modularny/), by Bartek Chaciński, in Polityka (November 2018)
+
+Reviews _Alpestres_:
+
+> Fakt, że Puech na co dzień jest naukowcem, wzbudza tylko dodatkowe
+  zaciekawienie, ale wróży chłodne eksperymenty, podczas gdy w tych
+  impresjach z gór – choćby w górującym nad resztą Talausblick vom
+  Hohlichtpass (tytuł od przełęczy w szwajcarskich Alpach) albo
+  wyjątkowo jak na ten album hałaśliwym Tschäggättä – jest jednak
+  całkiem sporo emocji i gry bardzo zniuansowaną dynamiką.
+
+#### Benzine Mag: [Les sorties d’albums du 9 novembre 2018](https://www.benzinemag.net/2018/11/09/les-sorties-dalbums-pop-rock-electro-rap-jazz-du-9-novembre-2018/)
+
+Announcing _Alpestres_ (Nov 9, 2018)
+
+#### Magic RPM: [Ça sort aujourd’hui et Magic aime](http://www.magicrpm.com/vera-sola-the-last-detail-charles-bradley-ca-sort-aujourdhui-et-magic-aime/)
+
+Announcing _Alpestres_ (Nov 9, 2018)
+
+#### Interview for [_11 plus 3_](http://11plus3.de/matthias-puech/) (October 2018)
+
+from _Digital in Berlin_
+
+#### _Son of Marketing_ exclusive (October 2018)
+
+[Premiered a title](https://sonofmarketing.com/2018/10/24/streaming-matthias-puech-un-incontro-notturno/) from _Alpestres_.
+
+#### _Orb Mag_ exclusive (October 2018)
+
+[Premiered a title](https://www.orbmag.com/music/premiere/matthias-puech-sculpte-au-fond-de-la-fontaine-un-visage-denfant/) from _Alpestres_.
 
 #### _Self-titled_ exclusive (September 2018)
 
@@ -144,13 +217,17 @@ were flowers with spinning blossoms…”
 
 ## Radio
 
-- September 2018: [LYL Radio, Hands on Deck](http://lyl.live/show/hands-on-deck/)
-- September 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html)
-- July 2018: [NTS, Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018)
-- July 2018: [Rinse FM, Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel)
-- July 2018: [CISM, Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html)
-- June 2018: [NTS, Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018)
-- June 2018: [NTS, Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/)
-- June 2018: [Le Mellotron, Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard)
-- November 2017: [Resonance FM, Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/)
-- June 2017: [NTS, Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017)
+- Radio 100,7 (LU), [E-Lodie](https://www.100komma7.lu/program/episode/226935/201811032100-201811032200) (November 2018)
+- Radio Distorsion (FR), [Un Canon sur le Zinc](http://uncanonsurlezinc.fr/index.php/2018/12/07/emission-ucslz-21/), (November 2018)
+- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-show-29th-october-2018) (October 2018)
+- Radio Scorpio (BE), [Sterrenplaten](https://www.mixcloud.com/Sterrenplaten/sterrenplaten-26-oktober-2018-sarah-davachi/?fbclid=IwAR1rpof9ReeztfwfSkAkRZ30an6lmyj2vf7L9QtnS1gBc2HEcGPS6hjNMLA) (October 2018)
+- LYL Radio (FR), [Hands on Deck](http://lyl.live/show/hands-on-deck/) (September 2018)
+- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html) (September 2018)
+- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018) (July 2018)
+- Rinse FM (FR), [Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel) (July 2018)
+- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html) (July 2018)
+- NTS (UK), [Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018) (June 2018)
+- NTS (UK), [Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/) (June 2018)
+- Le Mellotron (FR), [Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard) (June 2018)
+- Resonance FM (UK), [Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/) (November 2017)
+- NTS (UK), [Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017) (June 2017)
