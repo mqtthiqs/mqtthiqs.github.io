@@ -8,4 +8,4 @@ Radio France's festival _Présences_ 2019, with support from INA-GRM,
 commissioned an original live performance. I will be [playing this new
 piece on Feb
 16](https://www.maisondelaradio.fr/evenement/musique-contemporaine/concert-performance-n11/festival-presences-2019)
-in the Agora of Maison de la Radio.
+in the Agora of Maison de la Radio on eight loudspeakers.
