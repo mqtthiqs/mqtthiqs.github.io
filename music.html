@@ -6,7 +6,7 @@ layout: default
 
 {% assign sorted = site.releases | sort: 'date' | reverse %}
 {% for m in sorted %}
-<figure>
+<figure class="thumbnail">
   <a href="{{m.url}}"><img src="assets/img/{{m.cover}}" alt="{{m.title}}" /></a>
   <figcaption>
     <a href="{{m.url}}"><em>{{ m.title }}</em></a>
