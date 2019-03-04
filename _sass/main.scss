@@ -140,10 +140,19 @@ section {
 	margin-bottom: 0.5em;
     }
 
-    img.flush-left {
+    figure {
 	margin: 1em 0 1em 0;
-	float: left;
-	width: 100%;
+	padding: 0;
+	display: block;
+
+	figcaption {
+	    font-size: 70%;
+	}
+
+	img {
+	    width: 100%;
+	    display: block;
+	}
     }
 
     img.flush-right {
@@ -177,7 +186,7 @@ section {
 
     ul li::before { content: "— "; margin-right: 0.5em;}
 
-    figure {
+    figure.thumbnail {
 	display: inline-block;
 	margin: 15px;
 

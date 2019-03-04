@@ -6,7 +6,7 @@ layout: default
 
 {% assign sorted = site.releases | sort: 'date' | reverse %}
 {% for m in sorted %}
-<figure>
+<figure class="thumbnail">
   <a href="{{m.url}}"><img src="assets/img/{{m.cover}}" alt="{{m.title}}" /></a>
   <figcaption>
     <a href="{{m.url}}"><em>{{ m.title }}</em></a>
@@ -17,6 +17,21 @@ layout: default
   </figcaption>
 </figure>
 {% endfor %}
+
+<h2>Live</h2>
+
+<ul>
+  <li>Librairie Myriagone (Angers, 23 Feb 2019)</li>
+  <li>Festival Présences, Maison de la Radio (Paris, 16 Feb 2019)</li>
+  <li>Quasi-stellar Object #2, 100ECS (Paris, Oct 2018)</li>
+  <li>Hylé night, 100ECS (Paris, Jul 2018)</li>
+  <li>Marcel Festival, Péniche Adélaïde (Paris, Jun 2018)</li>
+  <li>Café OTO (London, May 2018)</li>
+  <li>Péripate (Génie d'Alex, Paris, Nov 2017)</li>
+  <li>BASE/Modularsquare (Café de la Presse, Paris, Jul 2016)</li>
+  <li>VENIN (l'Amour, Les Lilas, 2016)</li>
+  <li>CKUT radio (Montréal, 2015)</li>
+</ul>
 
 <h2>Miscellaneous</h2>
 
@@ -30,3 +45,4 @@ layout: default
   On Deck</a> on LYL radio, commissioned by Hands in the Dark
   Records</li> (Oct 18)
 </ul>
+

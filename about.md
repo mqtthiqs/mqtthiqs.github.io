@@ -18,9 +18,10 @@ his own instruments using unique synthesis algorithms inspired by
 physics and biology; he collaborates with manufacturers of modular
 synthesizers who market his creations.
 
-<img class="flush-left"
-     src="assets/img/portrait-modulaire.jpg"
-	alt="Credit: Erik Tengstrand" />
+<figure>
+  <img src="assets/img/portrait-modulaire.jpg" alt="Portrait" />
+  <figcaption>Credit: Nils Maisonneuve</figcaption>
+</figure>
 
 His academic research and teachings are focused on programming
 languages and logic, but now include embedded programming for real
@@ -33,10 +34,10 @@ Devices](http://xaocdevices.com/), and released a series of free and
 open-source firmware projects for digital synthesizer modules, the
 'Parasites'.
 
-
-<img class="flush-left"
-     src="assets/img/portrait2.jpg"
-	alt="Credit: jjgfree" />
+<figure>
+  <img src="assets/img/portrait2.jpg" alt="Portrait" />
+  <figcaption>Credit: jjgfree</figcaption>
+</figure>
 
 Puech has released three full-length physical albums, one split album
 in collaboration with Canadian sound artist Philippe Vandal, and one
@@ -49,6 +50,7 @@ Péripate, Rinse France (Paris), CKUT Radio (Montréal) and has been
 commissioned by Radio France & GRM for a live performance at Festival
 Présences 2019.
 
-<img class="flush-left"
-     src="assets/img/portrait-100ecs.jpg"
-	alt="Credit: Nils Maisonneuve" />
+<figure>
+  <img src="assets/img/portrait-100ecs.jpg" alt="Portrait" />
+  <figcaption>Credit: Nils Maisonneuve</figcaption>
+</figure>

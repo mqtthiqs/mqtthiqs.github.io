@@ -3,18 +3,6 @@ layout: default
 title: Press
 ---
 
-## Live
-
-- Festival Présences, Maison de la Radio (Paris, 16 Feb 2019)
-- Quasi-stellar Object #2, 100ECS (Paris, Oct 2018)
-- Hylé night, 100ECS (Paris, Jul 2018)
-- Marcel Festival, Péniche Adélaïde (Paris, Jun 2018)
-- Café OTO (London, May 2018)
-- Péripate (Génie d'Alex, Paris, Nov 2017)
-- BASE/Modularsquare (Café de la Presse, Paris, Jul 2016)
-- VENIN (l'Amour, Les Lilas, 2016)
-- CKUT radio (Montréal, 2015)
-
 ## Press
 
 #### New Noise, [Issue 46](http://www.noisemag.net/new-noise-46-en-kiosque-dans-une-dizaine-de-jours/) (Nov-Dec 2018)
