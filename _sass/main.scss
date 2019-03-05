@@ -26,6 +26,14 @@ h2 { font-size: 400%; }
 h3 { font-size: 200%; }
 h4 { font-size: 150%; }
 
+h4:before {
+    content: "◻ ";
+}
+// h3:before {
+//     content: "◻ ";
+// }
+
+
 time {
     font-size: 60%;
 }
