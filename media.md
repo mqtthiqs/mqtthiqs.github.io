@@ -3,6 +3,24 @@ layout: default
 title: Press
 ---
 
+## Radio
+
+- France Musique (FR), [L'Expérimentale](https://www.francemusique.fr/emissions/l-experimentale/concert-festival-presences-en-co-production-avec-le-grm-partie-2-69722) (March 2019)
+- Radio 100,7 (LU), [E-Lodie](https://www.100komma7.lu/program/episode/226935/201811032100-201811032200) (November 2018)
+- Radio Distorsion (FR), [Un Canon sur le Zinc](http://uncanonsurlezinc.fr/index.php/2018/12/07/emission-ucslz-21/), (November 2018)
+- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-show-29th-october-2018) (October 2018)
+- Radio Scorpio (BE), [Sterrenplaten](https://www.mixcloud.com/Sterrenplaten/sterrenplaten-26-oktober-2018-sarah-davachi/?fbclid=IwAR1rpof9ReeztfwfSkAkRZ30an6lmyj2vf7L9QtnS1gBc2HEcGPS6hjNMLA) (October 2018)
+- LYL Radio (FR), [Hands on Deck](http://lyl.live/show/hands-on-deck/) (September 2018)
+- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html) (September 2018)
+- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018) (July 2018)
+- Rinse FM (FR), [Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel) (July 2018)
+- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html) (July 2018)
+- NTS (UK), [Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018) (June 2018)
+- NTS (UK), [Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/) (June 2018)
+- Le Mellotron (FR), [Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard) (June 2018)
+- Resonance FM (UK), [Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/) (November 2017)
+- NTS (UK), [Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017) (June 2017)
+
 ## Press
 
 #### New Noise, [Issue 46](http://www.noisemag.net/new-noise-46-en-kiosque-dans-une-dizaine-de-jours/) (Nov-Dec 2018)
@@ -76,7 +94,7 @@ from _Digital in Berlin_
 
 [Premiered a title](https://www.orbmag.com/music/premiere/matthias-puech-sculpte-au-fond-de-la-fontaine-un-visage-denfant/) from _Alpestres_.
 
-### _Tiny Mix Tape_ exclusive (October 2018)
+#### _Tiny Mix Tape_ exclusive (October 2018)
 
 [Premiered a
 title](https://www.tinymixtapes.com/news/modular-mountaineer-matthias-puech-release-alpestres-premieres-track-un-incontro-notturno)
@@ -87,7 +105,7 @@ from _Alpestres_:
   allegorical mountain vs. a soundtrack to an imaginary summit of the
   Alps (which I hear are real).
 
-### _Libération_ exclusive in *Le Son du Jour* (October 2018)
+#### _Libération_ exclusive in *Le Son du Jour* (October 2018)
 
 [Premiered a
 title](https://next.liberation.fr/musique/2018/10/03/son-du-jour-292-culminant-comme-matthias-puech_1682646)
@@ -138,7 +156,7 @@ I gave a video interview, a tutorial and an improvised live performance for the
 [new course on modular synth](https://www.sawup.fr/courses/take/apprendre-synthe-modulaire/) for the [SawUp](https://www.sawup.fr/) online music teaching platform.
 
 
-#### _The Wire_ (Byron Coley,, Issue 406 December 2017)
+#### _The Wire_ (Byron Coley, Issue 406 December 2017)
 
 Writes about _A Year of Time_:
 
@@ -228,21 +246,3 @@ meadow where mammals and computers live together in mutually
 programming harmony […] a cybernetic forest filled with pines and
 electronics where deer stroll peacefully past computers as if they
 were flowers with spinning blossoms…”
-
-## Radio
-
-- France Musique (FR), [L'Expérimentale](https://www.francemusique.fr/emissions/l-experimentale/concert-festival-presences-en-co-production-avec-le-grm-partie-2-69722) (March 2019)
-- Radio 100,7 (LU), [E-Lodie](https://www.100komma7.lu/program/episode/226935/201811032100-201811032200) (November 2018)
-- Radio Distorsion (FR), [Un Canon sur le Zinc](http://uncanonsurlezinc.fr/index.php/2018/12/07/emission-ucslz-21/), (November 2018)
-- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-show-29th-october-2018) (October 2018)
-- Radio Scorpio (BE), [Sterrenplaten](https://www.mixcloud.com/Sterrenplaten/sterrenplaten-26-oktober-2018-sarah-davachi/?fbclid=IwAR1rpof9ReeztfwfSkAkRZ30an6lmyj2vf7L9QtnS1gBc2HEcGPS6hjNMLA) (October 2018)
-- LYL Radio (FR), [Hands on Deck](http://lyl.live/show/hands-on-deck/) (September 2018)
-- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html) (September 2018)
-- NTS (UK), [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018) (July 2018)
-- Rinse FM (FR), [Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel) (July 2018)
-- CISM (CA), [Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html) (July 2018)
-- NTS (UK), [Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018) (June 2018)
-- NTS (UK), [Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/) (June 2018)
-- Le Mellotron (FR), [Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard) (June 2018)
-- Resonance FM (UK), [Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/) (November 2017)
-- NTS (UK), [Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017) (June 2017)
