@@ -76,7 +76,7 @@ from _Digital in Berlin_
 
 [Premiered a title](https://www.orbmag.com/music/premiere/matthias-puech-sculpte-au-fond-de-la-fontaine-un-visage-denfant/) from _Alpestres_.
 
-### _Tiny Mix Tape_ exclusive (October 2018)
+#### _Tiny Mix Tape_ exclusive (October 2018)
 
 [Premiered a
 title](https://www.tinymixtapes.com/news/modular-mountaineer-matthias-puech-release-alpestres-premieres-track-un-incontro-notturno)
@@ -87,7 +87,7 @@ from _Alpestres_:
   allegorical mountain vs. a soundtrack to an imaginary summit of the
   Alps (which I hear are real).
 
-### _Libération_ exclusive in *Le Son du Jour* (October 2018)
+#### _Libération_ exclusive in *Le Son du Jour* (October 2018)
 
 [Premiered a
 title](https://next.liberation.fr/musique/2018/10/03/son-du-jour-292-culminant-comme-matthias-puech_1682646)
