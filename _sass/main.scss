@@ -91,16 +91,21 @@ header {
     }
 
     h1 {
-	text-transform: uppercase;
 	font-size: 400%;
-	letter-spacing: 0.01em;
-	margin: 0.1ex;
+	margin: 0.2ex;
 	padding: 0;
-	line-height: 0.75em;
 	text-align: right;
 	a { color: white; }
-	#line1 { color: lightgrey; font-weight: 100; }
-	#line2 {color: white; font-weight: normal;}
+	#line1 {
+	    letter-spacing: 0.01em;
+	    color: white;
+	    font-weight: 100;
+	}
+	#line2 {
+	    color: lightgrey;
+	    font-size: 23%;
+	    font-weight: normal;
+	}
     }
 
     p.right {
@@ -152,6 +157,7 @@ section {
 
 	figcaption {
 	    font-size: 70%;
+	    text-align: right;
 	}
 
 	img {
@@ -173,12 +179,8 @@ section {
     article {
 	clear: both;
 	margin-top: 1ex;
+	margin-right: 5em;
 	border-top: 1px solid lightgrey;
-	img {
-	    float: right;
-	    width: 150px;
-	    height: 150px;
-	}
     }
 
     // bandcamp embed
@@ -196,8 +198,8 @@ section {
 	margin: 15px;
 
 	img {
-	    width: 200px;
-	    height: 200px;
+	    width: 300px;
+	    height: 300px;
 	}
     }
 }

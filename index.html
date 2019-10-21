@@ -3,16 +3,20 @@ layout: default
 title: News
 ---
 
+<figure>
+  <img src="assets/img/portrait-100ecs.jpg" alt="Portrait" />
+  <figcaption>Credit: Nils Maisonneuve</figcaption>
+</figure>
+
 <h2>News</h2>
 
-{% for post in site.posts %}
+{% for post in site.data.news %}
 <article>
-  <img src="assets/img/{{ post.img }}" alt="{{post.title}}"/>
   <h4>
     <time>{{ post.date | date_to_string }}</time>
     &nbsp;
     {{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}
   </h4>
-  {{ post.content }}
+  {{ post.content | markdownify }}
 </article>
 {% endfor %}
