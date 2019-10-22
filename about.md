@@ -49,3 +49,8 @@ Self-Titled. He has notably played live at Café Oto (London), 100ECS,
 Péripate, Rinse France (Paris), CKUT Radio (Montréal) and has been
 commissioned by Radio France & GRM for a live performance at Festival
 Présences 2019.
+
+<figure>
+  <img src="assets/img/portrait-100ecs.jpg" alt="Portrait" />
+  <figcaption>Credit: Nils Maisonneuve</figcaption>
+</figure>
