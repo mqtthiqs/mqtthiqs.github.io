@@ -6,25 +6,26 @@ title: About
 ## About
 
 Matthias Puech is a musician, programmer, researcher and teacher born
-in Paris in 1983. Assistant Professor in Computer Science, he
-nourishes a dual interest for natural phenomena, especially
-evolutionary biology, and the mathematical and computational concepts
-that let us apprehend our world. Interpreting "ambient" and "noise" in
-their original sense, his compositions intend to disturb the
-distinction between sound synthesis and field recording, transporting
-the listener amidst imaginary ecosystems, fruits of the symbiotic
-relationship of the machine to its environment. Matthias Puech designs
-his own instruments using unique synthesis algorithms inspired by
-physics and biology; he collaborates with manufacturers of modular
-synthesizers who market his creations.
+in Paris in 1983. Member of [INA GRM](https://inagrm.com/) as a
+research and development scientist, and assistant Professor in
+Computer Science, he nourishes a dual interest for natural phenomena,
+especially evolutionary biology, and the mathematical and
+computational concepts that let us apprehend our world. Interpreting
+"ambient" and "noise" in their original sense, his compositions intend
+to disturb the distinction between sound synthesis and field
+recording, transporting the listener amidst imaginary ecosystems,
+fruits of the symbiotic relationship of the machine to its
+environment. Matthias Puech designs his own instruments using unique
+synthesis algorithms inspired by physics and biology; he collaborates
+with manufacturers of modular synthesizers who market his creations.
 
 <figure>
   <img src="assets/img/portrait-modulaire.jpg" alt="Portrait" />
   <figcaption>Credit: Nils Maisonneuve</figcaption>
 </figure>
 
-His academic research and teachings are focused on programming
-languages and logic, but now include embedded programming for real
+His academic research and teachings, initially focused on programming
+languages and logic, now include embedded programming for real
 time signal processing application, especially sound synthesis and
 processing. He has co-designed a Eurorack synthesizer module with the
 American manufacturer [4ms Company](https://4mscompany.com/),
@@ -47,8 +48,9 @@ published jointly by Hands in the Dark and Obsolete Future. His music
 has been reviewed in Libération, The Wire Magazine, Tiny Mix Tape,
 Self-Titled. He has notably played live at Café Oto (London), 100ECS,
 Péripate, Rinse France (Paris), CKUT Radio (Montréal) and has been
-commissioned by Radio France & GRM for a live performance at Festival
-Présences 2019.
+commissioned by Radio France & GRM for live a performance at Festival
+Présences 2019 and an original piece for the radio show "Création
+Mondiale" in 2020.
 
 <figure>
   <img src="assets/img/portrait-100ecs.jpg" alt="Portrait" />
