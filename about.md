@@ -40,17 +40,16 @@ open-source firmware projects for digital synthesizer modules, the
   <figcaption>Credit: jjgfree</figcaption>
 </figure>
 
-Puech has released three full-length physical albums, one split album
+Puech has released four full-length physical albums, one split album
 in collaboration with Canadian sound artist Philippe Vandal, and one
-EP, on labels Hisolat Records, Hylé Tapes, Panatype; his most recent
-album 'Alpestres' dedicated to the high mountains and its myths, is
-published jointly by Hands in the Dark and Obsolete Future. His music
-has been reviewed in Libération, The Wire Magazine, Tiny Mix Tape,
-Self-Titled. He has notably played live at Café Oto (London), 100ECS,
-Péripate, Rinse France (Paris), CKUT Radio (Montréal) and has been
-commissioned by Radio France & GRM for live a performance at Festival
-Présences 2019 and an original piece for the radio show "Création
-Mondiale" in 2020.
+EP, on labels Hisolat Records, Hylé Tapes, Panatype and Hands in the
+Dark; his most recent album 'A Geography of Abence', is published by
+NAHAL Recordings. His music has been reviewed in Libération, The Wire
+Magazine, Tiny Mix Tape, Self-Titled. He has notably played live at
+Café OTO (London), 100ECS, Péripate, Rinse France (Paris), CKUT Radio
+(Montréal) and has been commissioned by Radio France & GRM for live
+performances at Festivals Présences 2019, Akousma 2020 and for the
+radio show "Création Mondiale" in 2020.
 
 <figure>
   <img src="assets/img/portrait-100ecs.jpg" alt="Portrait" />

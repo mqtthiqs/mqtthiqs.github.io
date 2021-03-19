@@ -25,6 +25,3 @@ Géographie.
 8. Tschäggättä
 
 <iframe style="border: 0; width: 350px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3141208454/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://handsinthedarkrecords.bandcamp.com/album/alpestres">Alpestres by Matthias Puech</a></iframe>
-
-## Press
-

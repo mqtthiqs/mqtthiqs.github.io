@@ -33,6 +33,9 @@ keyboard or by manually entering notes with the controls.
          alt="Tapographic Delay" />
 </a>
 
+- [Sound on Sound review](https://www.soundonsound.com/node/4922356) (by Stephan Whitlan, November 2020)
+- [KR Home Studio review](https://www.kr-homestudio.fr/produit/kr352-la-guerre-des-clones-rodolphe-burger-fakear-bvo-tests-matos/) (by Pierre Estève, October 2020)
+
 ### 4ms & Matthias Puech _Tapographic Delay_
 
 Co-designed with [4ms](https://4mscompany.com/index.php) and developed
