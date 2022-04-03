@@ -23,6 +23,7 @@ layout: default
 - l'An Vert (Liège, Belgium, 19 Mar 2022)
 - Périscope (Lyon, 15 Dec 2021)
 - Hands in the Dark Festival (Besançon, 2 Dec 2021)
+- Festival Akousma, Studio 104, Maison de la Radio (Paris, 11 Oct 2020)
 - Festival Présences Électronique, Studio 104, Maison de la Radio (Paris, 3 Mar 2020) _[Cancelled]_
 - DAda (Toulouse, 26 Oct 2019)
 - Cafe OTO (London, 4 Oct 2019)
@@ -43,6 +44,7 @@ layout: default
 
 ## Miscellaneous
 
+- Contributed track _"Luminiferous Aether"_ to [ACCENTVA005](https://accentsrecords.bandcamp.com/album/accentva005-various-artists-005) compilation (Accent Records, 15 Mar 2021)
 - Live modular synthesizer generative soundtrack composition and
   programming for [Sylvain Couzinet Jacques](http://www.couzinetjacques.com/) _"Sub Rosa"_ multimedia installation at
   Gallery [C/O Berlin](https://www.co-berlin.org/co-berlin-talent-award-0). Winner of the C/O Berlin Talent Award, supported by
