@@ -1,61 +1,68 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,300" rel="stylesheet">
-    <title>Matthias Puech | {{ page.title }}</title>
-  </head>
-  <body>
-    <header>
-      <p>
-        <a href="https://www.soundcloud.com/mqtthiqs">
-          <img src="/assets/img/soundcloud-icon.png" alt="Facebook" /></a>
-        <a href="https://www.facebook.com/matthias.puech">
-          <img src="/assets/img/facebook-icon.png" alt="Facebook" /></a>
-        <a href="https://www.youtube.com/channel/UC7K02QcN3yUfxS_n08W-i4A">
-          <img src="/assets/img/youtube-icon.png" alt="Youtube"></a>
-        <a href="https://twitter.com/mqtthiqs">
-          <img src="/assets/img/twitter-icon.png" alt="Twitter"></a>
-        <a href="https://www.instagram.com/mqtthiqs/">
-          <img src="/assets/img/instagram-icon.png"
-               alt="Instagram"></a>
-        <a href="mailto:matthias.puech@gmail.com">
-          <img src="/assets/img/email-icon.png"
-               alt="Email"></a>
-      </p>
 
-      <h1><a href="/">
-          <div id="line1">Matthias Puech</div>
-          <div id="line2">Composer | Programmer | Researcher |
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.png">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,300" rel="stylesheet">
+  <title>Matthias Puech | {{ page.title }}</title>
+</head>
+
+<body>
+  <header>
+    <p>
+      <a href="https://www.soundcloud.com/mqtthiqs">
+        <img src="/assets/img/soundcloud-icon.png" alt="Facebook" /></a>
+      <a href="https://www.facebook.com/matthias.puech">
+        <img src="/assets/img/facebook-icon.png" alt="Facebook" /></a>
+      <a href="https://www.youtube.com/channel/UC7K02QcN3yUfxS_n08W-i4A">
+        <img src="/assets/img/youtube-icon.png" alt="Youtube"></a>
+      <a href="https://twitter.com/mqtthiqs">
+        <img src="/assets/img/twitter-icon.png" alt="Twitter"></a>
+      <a href="https://www.instagram.com/mqtthiqs/">
+        <img src="/assets/img/instagram-icon.png" alt="Instagram"></a>
+      <a href="mailto:matthias.puech@gmail.com">
+        <img src="/assets/img/email-icon.png" alt="Email"></a>
+    </p>
+
+    <h1><a href="/">
+        <div id="line1">Matthias Puech</div>
+        <div id="line2">Composer | Programmer | Researcher |
           Teacher </div>
       </a></h1>
 
-      <nav>
-        <ul>
-          <li {% if page.url == "/" %}class="selected"{% endif %}>
-            <a href="/index.html">News</a></li>
-          <li {% if page.url == "/about.html" %}class="selected"{% endif %}>
-            <a href="/about.html">About</a></li>
-          <li {% if page.url == "/music.html" %}class="selected"{% endif %}>
-            <a href="/music.html">Music</a></li>
-          <li {% if page.url == "/design.html" %}class="selected"{% endif %}>
-            <a href="/design.html">Design/Code</a></li>
-          <li {% if page.url == "/media.html" %}class="selected"{% endif %}>
-            <a href="/media.html">Media</a></li>
-          <li {% if page.url == "/research.html" %}class="selected"{% endif %}>
-            <a href="http://cedric.cnam.fr/~puechm/">Research & Teaching</a></li>
-        </ul>
-      </nav>
-    </header>
+    <nav>
+      <ul>
+        <li {% if page.url=="/" %}class="selected" {% endif %}>
+          <a href="/index.html">News</a>
+        </li>
+        <li {% if page.url=="/about.html" %}class="selected" {% endif %}>
+          <a href="/about.html">About</a>
+        </li>
+        <li {% if page.url=="/music.html" %}class="selected" {% endif %}>
+          <a href="/music.html">Music</a>
+        </li>
+        <li {% if page.url=="/design.html" %}class="selected" {% endif %}>
+          <a href="/design.html">Design</a>
+        </li>
+        <li {% if page.url=="/media.html" %}class="selected" {% endif %}>
+          <a href="/media.html">Media</a>
+        </li>
+        <li {% if page.url=="/research.html" %}class="selected" {% endif %}>
+          <a href="http://cedric.cnam.fr/~puechm/">Research & Teaching</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
 
-    <section>
-      {{ content }}
-      &nbsp;
-    </section>
+  <section>
+    {{ content }}
+    &nbsp;
+  </section>
 
-    <footer>
-    </footer>
-  </body>
+  <footer>
+  </footer>
+</body>
+
 </html>
-
