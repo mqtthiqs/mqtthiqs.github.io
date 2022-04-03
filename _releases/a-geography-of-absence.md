@@ -23,3 +23,12 @@ Matthias Puech. Graphic Design and lettering by Thibault Proux.
 5. Tunnel Vision
 6. A Faint Beacon
 7. Homeostasis
+
+# Reviews
+
+- Revue et Corrigée, [Issue 128](https://revue-et-corrigee.net/?v=parutions&parution_id=130&fbclid=IwAR2WmbXvM1dKFDlH_KhUTV07YM6VMkBHUaBzRT4JT1a3Vpt_Kampqt216AY) (Jun 2021)
+- [Headphone Commute](https://headphonecommute.com/2021/05/26/matthias-puech-hollow/) (Jun 2021)
+- The Wire Magazine, [Issue 448](https://www.thewire.co.uk/issues/448) (Jun 2021)
+- [The Quietus](https://thequietus.com/articles/29982-sourdure-gazo-heimat-sch-french-music), Rockfort! French Music For May Reviewed By David McKenna (May 2021)
+- [Rock Decibels](https://rock-decibels.org/2021/05/10/matthias-puech-a-geography-of-absence/) (May 2021)
+- [Avant Music News](https://avantmusicnews.com/2021/05/09/amn-reviews-matthias-puech-a-geography-of-absence-nahal-recordings/) (May 2021)

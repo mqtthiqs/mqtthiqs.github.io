@@ -49,8 +49,7 @@ layout: default
   programming for [Sylvain Couzinet Jacques](http://www.couzinetjacques.com/) _"Sub Rosa"_ multimedia installation at
   Gallery [C/O Berlin](https://www.co-berlin.org/co-berlin-talent-award-0). Winner of the C/O Berlin Talent Award, supported by
   Institut Français and Ministère de la Culture et de la communication.
-- Instrument design and programming for [_Textility of Making_](https://julienboudart.net/?page_id=586), premiered at [Festival Météo](https://ajc-jazz.eu/meteo-mulhouse-music-festival-2019/), Mulhouse, 31 Aug 2019
--  Live performance and interview on [Marie La Nuit](http://stationstation.fr/marie-la-nuit/)
+- Instrument design and programming for [_Textility of Making_](https://julienboudart.net/?page_id=586), by Julien Boudart & Anaïs Rousset premiered at [Festival Météo](https://ajc-jazz.eu/meteo-mulhouse-music-festival-2019/), Mulhouse, 31 Aug 2019.
 - Mix for the [Riots in Brixton](https://www.mixcloud.com/RiotsInBrixton/riots-in-brixton-scene-35-matthias-puech-290118) podcast, commissioned by Vito Lucente (Jan. 18)    
 - Mix for [Hands On Deck](https://www.mixcloud.com/lylradio/hands-on-deck-8/) on LYL radio, commissioned by Hands in the Dark
   Records (Oct 18)

@@ -45,8 +45,6 @@ blockquote {
 
 %headfoot {
     position: fixed;
-    opacity: 0.85;
-    filter: alpha(opacity=85); /* For IE8 and earlier */
     width: 100%;
     background-image: url("/assets/img/background.jpg");
     background-size: 100%;
