@@ -28,6 +28,9 @@ Géographie.
 
 # Reviews
 
+Alpestres appeared in several 2018 top lists: [Souffle Continu](https://www.facebook.com/soufflecontinu/posts/2638872296153760), [L'Ombre sur la Mesure](https://ombresurlamesure.com/musique-2018/), [Schizophrénie](https://www.facebook.com/notes/schizophr%C3%A9nie-%C3%A9mission-de-musique-%C3%A9lectronique/50-albums-pour-2018/2200819806609399/), [Riccardo Gorone (Impatto Sonoro)](https://www.impattosonoro.it/2018/12/21/speciali/classifiche/best-albums-of-2018-le-top-10-dei-nostri-redattori/?fbclid=IwAR0lsGTZDShPTVpV8EA9UoiIZUcZJoT3iuIB9aYCxxd1GuydOfs7_ZeADe8), [Spenser Thomson (The Wire)](https://www.thewire.co.uk/issues/charts/2018-rewind-contributors-charts?fbclid=IwAR2vAfLv4MOzgh0TI1oBGR-2CzqRb5I12OLdwAc-4zmdAC3IcSiTplFgYTY), [John Mulvey (MOJO)](http://www.twitlonger.com/show/n_1sqoi9d), [Eureka](http://silencio.unblog.fr/2019/01/11/top-25-albums-2018/).
+
+
 - New Noise, [Issue 46](http://www.noisemag.net/new-noise-46-en-kiosque-dans-une-dizaine-de-jours/) (Nov-Dec 2018)
 
 > À l'écoute d'_Alpestres_, on est saisi par le sens du détail
