@@ -10,12 +10,7 @@ LP and DL available [from Bandcamp](https://hallowground.bandcamp.com/album/matt
 
 More info at [Hallow Ground](https://hallowground.com/)
 
-Composed, recorded and mixed by Matthias Puech
-Mastered by Giuseppe Ielasi
-Photo by Caroline Schöbi
-Drawings by Matthias Puech
-Artwork by Laurin Huber
-Thanks to Gustave Evrard
+Composed, recorded and mixed by Matthias Puech. Mastered by Giuseppe Ielasi. Photo by Caroline Schöbi. Drawings by Matthias Puech. Artwork by Laurin Huber. Thanks to Gustave Evrard.
 
 “Mt. Hadamard National Park” commissioned by Radio France, premiered at Festival Présences, Maison de la Radio et de la Musique.
 
