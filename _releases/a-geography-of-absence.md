@@ -24,7 +24,7 @@ Matthias Puech. Graphic Design and lettering by Thibault Proux.
 6. A Faint Beacon
 7. Homeostasis
 
-<iframe style="border: 0; width: 350px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=3141208454/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://nahalrecordings.bandcamp.com/album/a-geography-of-absence">A Geography of Absence by Matthias Puech</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=564908141/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://matthiaspuech.bandcamp.com/album/a-geography-of-absence">A Geography of Absence by Matthias Puech</a></iframe>
 
 # Reviews
 
