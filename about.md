@@ -7,7 +7,7 @@ title: About
 
 Matthias Puech is a musician, programmer, researcher and teacher born
 in Paris in 1983. Member of [INA GRM](https://inagrm.com/) as a
-research and development scientist, and assistant Professor in
+research and development scientist, and associate Professor in
 Computer Science, he nourishes a dual interest for natural phenomena,
 especially evolutionary biology, and the mathematical and
 computational concepts that let us apprehend our world. Interpreting

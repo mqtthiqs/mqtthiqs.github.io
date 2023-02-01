@@ -20,6 +20,12 @@ layout: default
 
 ## Live performances
 
+- Kaserne (Basel, Switzerland, 16 March 2023)
+- Schönegg Variété (Zürich, Switzerland, 15 March 2023)
+- La Gare expérimentale, supporting Horse Lords (Paris, France, 17 November 2022)
+- Kool Birds (Pantin, France, 23 October 2022)
+- Sonic Acts (Amsterdam, Netherlands, 7 October 2022)
+- Elektrosmog, Theaterhaus G7 (Mannheim, Germany, 16 July 2022)
 - l'An Vert (Liège, Belgium, 19 Mar 2022)
 - Périscope (Lyon, 15 Dec 2021)
 - Hands in the Dark Festival (Besançon, 2 Dec 2021)
@@ -44,6 +50,7 @@ layout: default
 
 ## Miscellaneous
 
+- Co-composed the original soundtrack for the hörspiel [_Construire un feu_](https://www.radiofrance.fr/franceculture/podcasts/l-experience/construire-un-feu-5519506) by Octave Broutard (adapted from Jack London's short story "_To build a Fire_"). With Leila Bordreuil and Jefferson Lembeye, and the voices of Richard Bohringer and Sarah Lefèvre. Aired on [France Culture](https://www.radiofrance.fr/franceculture)'s [_L'expérience_](https://www.radiofrance.fr/franceculture/podcasts/l-experience) on September 11, 2022.
 - Contributed track _"Luminiferous Aether"_ to [ACCENTVA005](https://accentsrecords.bandcamp.com/album/accentva005-various-artists-005) compilation (Accent Records, 15 Mar 2021)
 - Live modular synthesizer generative soundtrack composition and
   programming for [Sylvain Couzinet Jacques](http://www.couzinetjacques.com/) _"Sub Rosa"_ multimedia installation at
