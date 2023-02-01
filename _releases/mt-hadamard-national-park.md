@@ -6,11 +6,9 @@ medium: LP, DL
 cover: hadamard-cover.jpg
 ---
 
-LP and DL available [from Bandcamp](https://hallowground.bandcamp.com/album/matthias-puech-mt-hadamard-national-park) (Cat.# HG2302). More info at [Hallow Ground](https://hallowground.com/)
+LP and DL available [from Bandcamp](https://hallowground.bandcamp.com/album/matthias-puech-mt-hadamard-national-park) (Cat.# HG2302). More info at [Hallow Ground](https://hallowground.com/).
 
-Composed, recorded and mixed by Matthias Puech. Mastered by Giuseppe Ielasi. Photo by Caroline Schöbi. Drawings by Matthias Puech. Artwork by Laurin Huber. Thanks to Gustave Evrard.
-
-“Mt. Hadamard National Park” commissioned by Radio France, premiered at Festival Présences, Maison de la Radio et de la Musique.
+Composed, recorded and mixed by Matthias Puech. Mastered by Giuseppe Ielasi. Photo by Caroline Schöbi. Drawings by Matthias Puech. Artwork by Laurin Huber. Thanks to Gustave Evrard. “Mt. Hadamard National Park” commissioned by Radio France, premiered at Festival Présences, Maison de la Radio et de la Musique.
 
 1. Mt. Hadamard National Park – Part 1
 2. Mt. Hadamard National Park – Part 2
