@@ -5,13 +5,13 @@ title: Press
 
 ## Features
 
-#### [Création Mondiale](https://www.francemusique.fr/emissions/creation-mondiale-l-integrale/un-jardin-dont-je-suis-l-espece-exotique-de-matthias-puech-diffusion-integrale-et-portrait-du-compositeur-89802) (France Musique, FR, Dec 2020)
-
-Presented a commissionned 10-minutes piece, _"Un jardin dont je suis l'espèce exotique"_, split into five 2-minutes parts and broadcast over a week interleaved with interviews, and an integral diffusion on Sunday.
-
 #### [The Wire Magazine](https://www.thewire.co.uk/in-writing/interviews/life-in-the-inert-emily-bick-speaks-with-matthias-puech) (Emily Bick, GB, Jun 2021)
 
 Interview around the release of _"A Geography of Absence"_.
+
+#### [Création Mondiale](https://www.francemusique.fr/emissions/creation-mondiale-l-integrale/un-jardin-dont-je-suis-l-espece-exotique-de-matthias-puech-diffusion-integrale-et-portrait-du-compositeur-89802) (France Musique, FR, Dec 2020)
+
+Presented a commissionned 10-minutes piece, _"Un jardin dont je suis l'espèce exotique"_, split into five 2-minutes parts and broadcast over a week interleaved with interviews, and an integral diffusion on Sunday.
 
 #### [L'Expérimentale](https://www.francemusique.fr/emissions/l-experimentale/invite-matthias-puech-91527) (France Musique, FR, Feb 2021)
 
