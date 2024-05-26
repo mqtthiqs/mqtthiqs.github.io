@@ -1,4 +1,4 @@
-$header-height: 8em;
+$header-height: 8.5em;
 $footer-height: 2.5em;
 
 * {
@@ -21,8 +21,8 @@ h5 {
 	font-family: "Libre Baskerville", serif;
 	font-weight: 400;
 	font-style: italic;
+	margin-top: 1.0ex;
 	margin-bottom: 0.5ex;
-	margin-top: 0.5ex;
 }
 
 h2 {
@@ -157,27 +157,9 @@ footer {
 section {
 	margin-top: $header-height + 5em;
 	margin-bottom: $footer-height;
-	padding-left: 25%;
+	padding-left: 30%;
 	padding-right: 7%;
 	position: relative;
-
-	.video {
-		position: relative;
-		padding-bottom: 56.25%;
-		/* 16:9 */
-		height: 0;
-
-		iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-		}
-
-		margin-top: -5em;
-		margin-bottom: 2em;
-	}
 
 	p {
 		margin-bottom: 0.5em;
@@ -189,7 +171,7 @@ section {
 		display: block;
 
 		figcaption {
-			font-size: 70%;
+			font-size: 80%;
 			text-align: right;
 		}
 
