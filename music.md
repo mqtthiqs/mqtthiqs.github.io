@@ -18,8 +18,21 @@ layout: default
 </figure>
 {% endfor %}
 
+## Compilations
+
+- _"Un signe sylvestre"_ in [_Synthetic Bird Music_](https://mappa.bandcamp.com/album/synthetic-bird-music)
+  ([_mappa_](https://mappa.bandcamp.com/), 15 November 2023)
+- _"Dans le noir"_ in [_Connection: sculpting silence_](https://hyletapes.bandcamp.com/album/connection-sculpting-silence) compilation
+  ([_Hylé Tapes_](https://hyletapes.bandcamp.com/music), 12 January 2024)
+- _"Luminiferous Aether"_ in [ACCENTVA005](https://accentsrecords.bandcamp.com/album/accentva005-various-artists-005) compilation (Accent Records, 15 Mar 2021)
+
 ## Live performances
 
+- gneration (Live + masterclass, Braga, Portual, 8 November 2024)
+- Le Mans Sonore 2024 (Le Mans, France, 25 January 2024)
+- Louvre Lens with [Enrique Ramírez](http://www.enriqueramirez.net/) (Lens, 4 November 2023)
+- Festival Rien à Voir (Monéstiés, France, 18 June 2023)
+- Festival Diskoutal #4 (Ouessant, France, 10 June 2023)
 - Kaserne (Basel, Switzerland, 16 March 2023)
 - Schönegg Variété (Zürich, Switzerland, 15 March 2023)
 - La Gare expérimentale, supporting Horse Lords (Paris, France, 17 November 2022)
@@ -51,7 +64,6 @@ layout: default
 ## Miscellaneous
 
 - Co-composed the original soundtrack for the hörspiel [_Construire un feu_](https://www.radiofrance.fr/franceculture/podcasts/l-experience/construire-un-feu-5519506) by Octave Broutard (adapted from Jack London's short story "_To build a Fire_"). With Leila Bordreuil and Jefferson Lembeye, and the voices of Richard Bohringer and Sarah Lefèvre. Aired on [France Culture](https://www.radiofrance.fr/franceculture)'s [_L'expérience_](https://www.radiofrance.fr/franceculture/podcasts/l-experience) on September 11, 2022.
-- Contributed track _"Luminiferous Aether"_ to [ACCENTVA005](https://accentsrecords.bandcamp.com/album/accentva005-various-artists-005) compilation (Accent Records, 15 Mar 2021)
 - Live modular synthesizer generative soundtrack composition and
   programming for [Sylvain Couzinet Jacques](http://www.couzinetjacques.com/) _"Sub Rosa"_ multimedia installation at
   Gallery [C/O Berlin](https://www.co-berlin.org/co-berlin-talent-award-0). Winner of the C/O Berlin Talent Award, supported by
