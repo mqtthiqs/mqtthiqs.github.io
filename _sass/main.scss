@@ -1,220 +1,242 @@
-
-$header-height: 14em;
-$footer-height: 5em;
+$header-height: 8em;
+$footer-height: 2.5em;
 
 * {
-    margin: 0;
+	margin: 0;
 }
 
-html {
-    //background-image: url("/assets/img/cahier.jpg");
-    // background-repeat: no-repeat;
-    // background-size: 100%;
+html,
+body {
+	height: 100%;
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	font-style: normal;
 }
 
-html, body {
-    height: 100%;
-    font-family: 'IBM Plex Sans', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: "Libre Baskerville", serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-bottom: 0.5ex;
+	margin-top: 0.5ex;
 }
 
-h1, h2, h3, h4, h5 {
-    font-weight: 100;
-    margin-bottom: 0.5ex;
+h2 {
+	font-size: 200%;
+	text-transform: uppercase;
 }
 
-h2 { font-size: 400%; }
-h3 { font-size: 200%; }
-h4 { font-size: 150%; }
+h3 {
+	font-size: 150%;
+}
+
+h4 {
+	font-size: 120%;
+	font-style: normal;
+
+}
 
 time {
-    font-size: 60%;
+	font-size: 60%;
 }
 
 a {
-    color: LightSlateGrey;
-    text-decoration: none;
+	color: LightSlateGrey;
+	text-decoration: none;
 }
 
 blockquote {
-    margin-left: 2em;
-    font-style: italic;
+	margin-left: 2em;
+	font-style: italic;
 
-    p::before { content: "“ "; }
-    p::after { content: " ”"; }
+	p::before {
+		content: "“ ";
+	}
+
+	p::after {
+		content: " ”";
+	}
 }
 
 %headfoot {
-    position: fixed;
-    width: 100%;
-    background-image: url("/assets/img/background.jpg");
-    background-size: 100%;
+	position: fixed;
+	width: 100%;
+	background-image: url("/assets/img/background.jpg");
+	background-size: 100%;
 }
 
 header {
-    @extend %headfoot;
-    top: 0;
-    height: $header-height;
-    background-position: top;
-    z-index: 10;
+	@extend %headfoot;
+	top: 0;
+	height: $header-height;
+	background-position: top;
+	z-index: 10;
 
-    nav {
-	position: absolute;
-	bottom: 0;
-	font-size: 90%;
+	nav {
+		position: absolute;
+		bottom: 0;
+		font-size: 90%;
 
-	ul {
-	    margin: 0;
-	    padding: 0;
-	    list-style: none;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+
+		li {
+			display: inline-block;
+			color: white;
+			height: 1em;
+			padding: 0.5em 1em;
+			opacity: 0.85;
+			filter: alpha(opacity=85);
+			/* For IE8 and earlier */
+
+			a {
+				text-transform: uppercase;
+				font-family: "Libre Baskerville", serif;
+				font-style: italic;
+				text-decoration: none;
+				color: white;
+			}
+		}
+
+		li.selected {
+			background-color: black;
+		}
 	}
 
-	li {
-	    display: inline-block;
-	    background-color: black;
-	    color: white;
-	    height: 1em;
-	    padding: 0.5em 1em;
-	    opacity: 0.85;
-	    filter: alpha(opacity=85); /* For IE8 and earlier */
+	h1 {
+		font-size: 200%;
+		font-style: italic;
+		margin: 0.5ex;
+		padding: 0;
 
-	    a {
-		text-transform: uppercase;
-		text-decoration: none;
-		color: white;
-	    }
+		a {
+			color: white;
+		}
+
+		#line1 {
+			text-transform: uppercase;
+			margin-bottom: 0.5ex;
+		}
+
+		#line2 {
+			font-size: 45%;
+		}
 	}
-
-	li.selected {
-	    background-color: #5c5c3d;
-	}
-    }
-
-    h1 {
-	font-size: 400%;
-	margin: 0.2ex;
-	padding: 0;
-	text-align: right;
-	a { color: white; }
-	#line1 {
-	    letter-spacing: 0.01em;
-	    color: white;
-	    font-weight: 100;
-	}
-	#line2 {
-	    color: lightgrey;
-	    font-size: 23%;
-	    font-weight: normal;
-	}
-    }
-
-    p.right {
-	float: right;
-	font-size: 80%;
-	text-align: right;
-	margin: -1em 1ex 0 0;
-	padding: 0;
-    }
-
-    img {
-	width: 24px;
-	height: 24px;
-	padding: 8px;
-    }
-
-    p {
-	float: left;
-	margin: auto 0;
-	width: 30%;
-    }
-    
 }
 
 footer {
-    @extend %headfoot;
-    background: lightgrey;
-    background-size: 100% auto;
-    background-position: bottom;
-    bottom: 0;
-    width: 100%;
-    color: white;
+	@extend %headfoot;
+	height: $footer-height;
+	background-size: 100% auto;
+	background-position: bottom;
+	bottom: 0;
+	width: 100%;
+
+
+	p {
+		img {
+			width: 1.5em;
+			height: 1.5em;
+			padding: 0.5em;
+		}
+
+		float: right;
+		text-align: right;
+	}
+
 }
 
 section {
-    margin-top: $header-height + 5em;
-    margin-bottom: $footer-height;
-    padding-left: 25%;
-    padding-right: 7%;
-    position: relative;
-
-    .video {
+	margin-top: $header-height + 5em;
+	margin-bottom: $footer-height;
+	padding-left: 25%;
+	padding-right: 7%;
 	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	height: 0;
+
+	.video {
+		position: relative;
+		padding-bottom: 56.25%;
+		/* 16:9 */
+		height: 0;
+
+		iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		margin-top: -5em;
+		margin-bottom: 2em;
+	}
+
+	p {
+		margin-bottom: 0.5em;
+	}
+
+	figure {
+		margin: 1em 0 1em 0;
+		padding: 0;
+		display: block;
+
+		figcaption {
+			font-size: 70%;
+			text-align: right;
+		}
+
+		img {
+			width: 100%;
+			display: block;
+		}
+	}
+
+	img.flush-right {
+		float: right;
+		width: 40%;
+	}
+
+	img.flush-right-smaller {
+		float: right;
+		width: 20%;
+	}
+
+	article {
+		clear: both;
+		margin-top: 1ex;
+		margin-right: 5em;
+		border-top: 1px solid lightgrey;
+	}
+
+	// bandcamp embed
 	iframe {
-	    position: absolute;
-	    top: 0;
-	    left: 0;
-	    width: 100%;
-	    height: 100%;
-	}
-	margin-top: -5em;
-	margin-bottom: 2em;
-    }
-
-    p {
-	margin-bottom: 0.5em;
-    }
-
-    figure {
-	margin: 1em 0 1em 0;
-	padding: 0;
-	display: block;
-
-	figcaption {
-	    font-size: 70%;
-	    text-align: right;
+		margin-top: 2em;
 	}
 
-	img {
-	    width: 100%;
-	    display: block;
+	ul {
+		list-style: none;
+		padding: 0;
 	}
-    }
 
-    img.flush-right {
-	float: right;
-	width: 40%;
-    }
-
-    img.flush-right-smaller {
-	float: right;
-	width: 20%;
-    }
-
-    article {
-	clear: both;
-	margin-top: 1ex;
-	margin-right: 5em;
-	border-top: 1px solid lightgrey;
-    }
-
-    // bandcamp embed
-    iframe { margin-top: 2em; }
-
-    ul {
-	list-style: none;
-	padding: 0;
-    }
-
-    ul li::before { content: "— "; margin-right: 0.5em;}
-
-    figure.thumbnail {
-	display: inline-block;
-	margin: 15px;
-
-	img {
-	    width: 300px;
-	    height: 300px;
+	ul li::before {
+		content: "— ";
+		margin-right: 0.5em;
 	}
-    }
+
+	figure.thumbnail {
+		display: inline-block;
+		margin: 15px;
+
+		img {
+			width: 300px;
+			height: 300px;
+		}
+	}
 }
