@@ -67,7 +67,6 @@ blockquote {
 	color: white;
 	width: 100%;
 	background-image: url("/assets/img/background.jpg");
-	opacity: 0.9;
 	background-size: 100%;
 }
 
@@ -94,9 +93,6 @@ header {
 			color: white;
 			height: 1em;
 			padding: 0.5em 1em;
-			opacity: 0.85;
-			filter: alpha(opacity=85);
-			/* For IE8 and earlier */
 
 			a {
 				text-transform: uppercase;
