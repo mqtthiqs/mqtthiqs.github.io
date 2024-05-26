@@ -64,8 +64,10 @@ blockquote {
 
 %headfoot {
 	position: fixed;
+	color: white;
 	width: 100%;
 	background-image: url("/assets/img/background.jpg");
+	opacity: 0.9;
 	background-size: 100%;
 }
 
@@ -140,7 +142,7 @@ footer {
 	width: 100%;
 
 
-	p {
+	#social {
 		img {
 			width: 1.5em;
 			height: 1.5em;
@@ -151,6 +153,9 @@ footer {
 		text-align: right;
 	}
 
+	h5 {
+		margin: 1.8ex
+	}
 }
 
 section {
