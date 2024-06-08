@@ -119,7 +119,7 @@ Devices](https://xaocdevices.com/), adding advanced functionality. _(2016)_
 
 <a href="https://mqtthiqs.github.io/parasites/">
   <img class="flush-right-smaller"
-       src="assets/img/parasites.jpg"
+       src="assets/img/parasites2.jpg"
        alt="Parasites" />
 </a>
 
