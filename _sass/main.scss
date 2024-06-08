@@ -189,12 +189,21 @@ section {
 	img.flush-right-smaller {
 		float: right;
 		width: 20%;
+		margin: 1ex;
 	}
 
 	article {
 		clear: both;
 		margin-top: 1ex;
 		margin-right: 5em;
+		border-top: 1px solid lightgrey;
+	}
+
+	hr {
+		clear: both;
+		margin-top: 5ex;
+		margin-bottom: 1ex;
+		border: 0px;
 		border-top: 1px solid lightgrey;
 	}
 
