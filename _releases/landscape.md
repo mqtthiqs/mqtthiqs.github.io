@@ -12,7 +12,7 @@ Limited Edition 12" Gatefold LP available from [Neuer Berliner
 Kunstverein](https://www.nbk.org/en/publikationen/ramirez-puech), [Buchhandlung
 Walther
 König](https://www.buchhandlung-walther-koenig.de/koenig2/index.php?mode=start)
-or [SoundOhm](www.soundohm.com/product/form-the-other-side-of-a). More
+or [SoundOhm](https://www.soundohm.com/product/form-the-other-side-of-a). More
 information at [Ediciones Inauditas](https://ediciones-inauditas.art/)
 
 Composed, recorded and mixed by Enrique Ramírez & Matthias Puech. Published by
