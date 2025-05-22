@@ -23,4 +23,4 @@ Mastered by Antoine Richard.
 7. Plis et Failles
 8. Excusez du Beaucoup
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2946559261/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://matthiaspuech.bandcamp.com/album/cabanes">Cabanes by Matthias Puech</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2946559261/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://matthiaspuech.bandcamp.com/album/cabanes">Cabanes by Matthias Puech</a></iframe>
