@@ -9,21 +9,30 @@ layout: default
 <img class="flush-right-smaller" src="assets/img/grmtools.jpg"
        alt="GRM Tools" />
 
-### INA grm [GRM Tools](https://inagrm.com/en/store)
+### INA grm [GRM Tools Atelier](https://grm.tools/)
 
 Software suite for creative sound processing.
 
-> The GRM Tools Complete Collection is an un-compared set of 18 amazing plug-ins
-that have been used by most renowned composers and sound designers around the
-world. Each GRM Tools plug-ins offers powerful and unique sound transformation
-and audio processing features. Conceived and crafted by the _GRM_ Group
-([_Groupe de Recherches Musicales_](https://inagrm.com/)) of the famous National
-Audiovisual Institute of Paris (France), GRM Tools Complete is the result of
-numerous years of research, experimentation and development.
+Creator, lead designer and developer. Full design and implementation _(2021--)_
 
-Lead designer and developer. Full redesign and re-implementation in progress.
-_(2021--)_
+> INA grm, the birthplace of electroacoustic music in France founded by Pierre
+Schaeffer, is proud to introduce GRM Tools Atelier, an innovative software
+environment for modern sound creators, offering a unique environment for
+experimentation.
+> Atelier is the latest evolution of the research program initiated in the 1950s,
+leading to the development of the _Morphophone_, _Phonogene_, _SYTER_, and
+the _GRM Tools_ plugin suite. Designed for composers, artists, and sound
+designers, it focuses on modular multichannel audio creation, electroacoustic
+research, and an exploratory approach to modulation.
 
+- Modular — Patch your processors and modulation freely
+- Hybrid workflow — Synthesis, processing in one system
+- Multichannel native — From stereo to 64+ channels, instantly
+- Polyadic modulation — A new paradigm for organic control
+- Built to evolve — New features and modules on the way
+
+> GRM Tools Atelier is available as a standalone application and a plugin (VST3,
+AUv2, AAX) for macOS.
 ---
 
 <a href="https://4mscompany.com/p.php?p=984">
