@@ -19,7 +19,8 @@ Creator, lead designer and developer. Full design and implementation _(2021--)_
 Schaeffer, is proud to introduce GRM Tools Atelier, an innovative software
 environment for modern sound creators, offering a unique environment for
 experimentation.
-> Atelier is the latest evolution of the research program initiated in the 1950s,
+
+Atelier is the latest evolution of the research program initiated in the 1950s,
 leading to the development of the _Morphophone_, _Phonogene_, _SYTER_, and
 the _GRM Tools_ plugin suite. Designed for composers, artists, and sound
 designers, it focuses on modular multichannel audio creation, electroacoustic
@@ -31,8 +32,9 @@ research, and an exploratory approach to modulation.
 - Polyadic modulation — A new paradigm for organic control
 - Built to evolve — New features and modules on the way
 
-> GRM Tools Atelier is available as a standalone application and a plugin (VST3,
+GRM Tools Atelier is available as a standalone application and a plugin (VST3,
 AUv2, AAX) for macOS.
+
 ---
 
 <a href="https://4mscompany.com/p.php?p=984">
