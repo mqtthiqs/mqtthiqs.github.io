@@ -5,6 +5,8 @@ title: About
 
 ## About
 
+---
+
 Matthias Puech is a composer, instrument designer, researcher and teacher born in Paris in 1983. He is a research and development scientist at [INA GRM](https://inagrm.com/), where he leads the development of _GRM Tools_, and an associate professor of Computer Science.
 
 He pursues a dual interest for natural phenomena and the mathematical and computational concepts that let us apprehend our world. Interpreting "ambient" and "noise" in their original sense, his compositions intend to disturb the distinction between sound synthesis and field recording, transporting the listener amidst imaginary ecosystems, fruits of the symbiotic relationship of the machine with its environment. His music was released by labels Hands in the Dark, Hallow Ground or Nahal, and was performed notably at Cafe OTO (London), GRM Akousma (Paris), Sonic Acts (Amsterdam) or Kaserne (Basel).

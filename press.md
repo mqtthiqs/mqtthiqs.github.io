@@ -5,6 +5,8 @@ title: Press
 
 ## Features
 
+---
+
 #### [The Wire Magazine](https://www.thewire.co.uk/in-writing/interviews/life-in-the-inert-emily-bick-speaks-with-matthias-puech) (Emily Bick, GB, Jun 2021)
 
 Interview around the release of _"A Geography of Absence"_.
@@ -51,7 +53,10 @@ Interview around the release of _"A Geography of Absence"_.
 
 Interview from _Digital in Berlin_
 
+---
+
 ## Radio
+
 
 - [The Wire Magazine](https://www.thewire.co.uk/audio/on-air/derek-walmsley-presents-adventures-in-sound-and-music-hands-in-the-dark-special), Derek Walmsley (Resonance FM, UK, November 2021)
 - [Emily Bick presents Adventures In Sound And Music](https://www.thewire.co.uk/audio/on-air/emily-bick-presents-adventures-in-sound-and-music-61169) (Resonance FM, UK, April 2021)
@@ -73,9 +78,11 @@ Interview from _Digital in Berlin_
 - [Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/) (Resonance FM, UK, November 2017)
 - [Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017) (NTS, UK, June 2017)
 
+---
+
 ## Reviews
 
-### About _A Geography of Absence_
+### _A Geography of Absence_
 
 - The Wire Magazine, [Issue 448](https://www.thewire.co.uk/issues/448) (Jun 2021)
 - Revue et Corrigée, [Issue 128](https://revue-et-corrigee.net/?v=parutions&parution_id=130) (Jun 2021)
@@ -84,13 +91,13 @@ Interview from _Digital in Berlin_
 - [The Quietus](https://thequietus.com/articles/29982-sourdure-gazo-heimat-sch-french-music), Rockfort! French Music For May Reviewed By David McKenna (May 2021)
 - [Rock Decibels](https://rock-decibels.org/2021/05/10/matthias-puech-a-geography-of-absence/) (May 2021)
 
-### About _Ensemble Oscillator_
+### _Ensemble Oscillator_
 
 - [Sound on Sound](https://www.soundonsound.com/node/4922356) (Nov 2020)
 - [KR Homestudio](https://www.kr-homestudio.fr/produit/kr352-la-guerre-des-clones-rodolphe-burger-fakear-bvo-tests-matos/) (Oct 2020)
 - [Waveform Magazine](https://waveformmagazine.com/waveform-reviews/4ms-ensemble-oscillator-enosc/) (Nov 2020)
 
-### About _Alpestres_
+### _Alpestres_
 
 - _Libération_ exclusive in [*Le Son du Jour*](https://next.liberation.fr/musique/2018/10/03/son-du-jour-292-culminant-comme-matthias-puech_1682646) (October 2018)
 - New Noise, [Issue 46](http://www.noisemag.net/new-noise-46-en-kiosque-dans-une-dizaine-de-jours/) (Nov-Dec 2018)
@@ -104,17 +111,17 @@ Interview from _Digital in Berlin_
 - [_Tiny Mix Tape_](https://www.tinymixtapes.com/news/modular-mountaineer-matthias-puech-release-alpestres-premieres-track-un-incontro-notturno) exclusive (October 2018)
 - [_Self-titled_](http://www.self-titledmag.com/2018/09/26/matthias-puech-alpestres-album/) exclusive (September 2018)
 
-### About _Tapographic Delay_
+### _Tapographic Delay_
 
 - [Sound on Sound](https://www.soundonsound.com/reviews/4ms-tapographic-delay) (Paul Nagle, May 2018)
 - [Electronic Musician](https://www.emusician.com/gear/mod-squad-4ms-mattias-puech-tapographic-delay) (Gino Robair, April 2018)
 
-### About _A Year of Time_
+### _A Year of Time_
 
 - _The Wire_ (Byron Coley, Issue 406 December 2017)
 - [Cassette Gods](http://cassettegods.blogspot.com/2017/11/matthias-puech-year-of-time-c40-hyle.html) (November 2017)
 
-### About _Threshold_
+### _Threshold_
 
 - Revue & Corrigée (Cyrille Lanoë, October 2017)
 - [_Stray Landings_](http://straylandings.co.uk/reviews/threshold) (Georges McVicar, Feb 2017)

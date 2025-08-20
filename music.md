@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Releases
+---
 
 {% assign sorted = site.releases | sort: 'date' | reverse %}
 {% for m in sorted %}
