@@ -19,6 +19,8 @@ layout: default
 </figure>
 {% endfor %}
 
+---
+
 ## Compilations
 
 - _"Un signe sylvestre"_ in [_Synthetic Bird Music_](https://mappa.bandcamp.com/album/synthetic-bird-music)
@@ -27,7 +29,9 @@ layout: default
   ([_Hylé Tapes_](https://hyletapes.bandcamp.com/music), 12 January 2024)
 - _"Luminiferous Aether"_ in [ACCENTVA005](https://accentsrecords.bandcamp.com/album/accentva005-various-artists-005) compilation (Accent Records, 15 Mar 2021)
 
-## Live performances
+---
+
+## Live
 
 - gneration (Live + masterclass, Braga, Portual, 8 November 2024)
 - Le Mans Sonore 2024 (Le Mans, France, 25 January 2024)
@@ -61,6 +65,8 @@ layout: default
 - BASE/Modularsquare (Café de la Presse, Paris, Jul 2016)
 - VENIN (l'Amour, Les Lilas, 2016)
 - CKUT radio (Montréal, 2015)
+
+---
 
 ## Miscellaneous
 
