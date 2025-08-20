@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../../index.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-17726436-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script src='../../gaAddons.js' type='text/javascript'></script>
+    <title>USRS09 - Enseignement - Matthias Puech</title>
+  </head>
+
+  <body>
+    <div id="header">
+      <div id="title">
+
+        <h1><a href="../../index.html">Matthias Puech</a></h1>
+
+      </div>
+      <img src= "../../header.jpg" alt="Matthias Puech"/>
+    </div>
+
+    <div id="menu">
+    </div>
+
+    <hr />
+
+    <div id="content">
+      <h1>USRS09: Traitement du Signal</h1>
+      <h2>Page du cours 2018-2019, intervention “Traitement du signal audio embarqué”</h2>
+
+      STMN 1ère année
+
+      <h3>Informations pratiques</h3>
+      <ul>
+        <li><i>Horaire:</i> mercredi 19 juin 2019 (9h-12h, 13h-17h) et
+        jeudi 20 juin 2019 (9-12h--13-17h) </li>
+        <li><i>Emplacement:</i> Salle ?, Enjmin, Angoulême</li>
+        <li><i>Evaluation:</i> TP noté; examen commun</li>
+      </ul>
+
+      <h3>Installation</h3>
+
+
+      <pre>
+Pour cette partie du cours nous allons travailler sur des cartes avec
+microcontrôleur STM32. Pour ce faire nous aurons besoin de la
+toolchain adéquate (compilateur C++, outil d'upload sur la
+carte). Voici comment l'obtenir:
+
+- installez VirtualBox 5.2.8
+(https://www.virtualbox.org/wiki/Downloads) et son Extension Pack
+(lien sur la même page)
+- installez Vagrant 2.0.3 (https://www.vagrantup.com/downloads.html)
+- téléchargez et décompresser le .zip à l'adresse
+https://gitlab.cnam.fr/gitlab/puechm/stm32-dsp-template/repository/archive.zip
+- placez-vous dans le répertoire extrait, et lancer la commande
+"vagrant up" (cela crée et lance la machine virtuelle de
+développement)
+- une fois que c'est terminé, connectez-vous à la machine virtuelle
+avec la commande "vagrant ssh"
+- une fois connecté, tapez "cd /vagrant" puis "make flash"; vous
+devriez voir l'erreur "Couldn't find any ST-Link/V2 devices"
+- déconnectez-vous de la machine virtuelle en tapant "exit"
+- éteignez la machine virtuelle avec "vagrant halt".
+</pre>
+
+      <h3>Support</h3>
+
+      <ul>
+        <li>Support de cours (<a href="cours.pdf">PDF</a>)</li>
+        <li>Feuille de TP (<a href="tp.pdf">PDF</a>)</li>
+        <li>Code fourni (<a href="code.zip">ZIP</a>)</li>
+      </ul>
+    </div>
+
+    <hr />
+  </body>
+</html>

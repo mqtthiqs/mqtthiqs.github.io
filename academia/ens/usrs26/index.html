@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../../index.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-17726436-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script src='../../gaAddons.js' type='text/javascript'></script>
+    <title>USRS26 2017-2018 - Enseignement - Matthias Puech</title>
+  </head>
+
+  <body>
+    <div id="header">
+      <div id="title">
+
+        <h1><a href="../../index.html">Matthias Puech</a></h1>
+
+      </div>
+      <img src= "../../header.jpg" alt="Matthias Puech"/>
+    </div>
+
+    <div id="menu">
+    </div>
+
+    <hr />
+
+    <div id="content">
+      <h2>USRS26: Microcontrôleurs: architecture et communication</h2>
+      <h3>Page du cours 2017-2018</h3>
+
+      <h4>Informations pratiques</h4>
+      <ul>
+        <li><i>Horaires</i>: Lundi 9:00-12:20 et jeudi 13:30-16:50</li>
+        <li><i>Emplacement</i>: Salle 31.1.01</li>
+        <li><i>Installation de la toolchain sur vos machines</i>:
+          <ul>
+            <li><i>MacOS</i>:</li>
+              <ul>
+                <li>Installer le gestionnaire de package
+                  <a href="https://brew.sh/">Homebrew</a></li>
+                <li>brew tap PX4/homebrew-px4 && brew update && brew
+                install gcc-arm-none-eabi stlink</li>
+              </ul>
+            <li><i>Windows</i>: (merci à Alan Vidal)
+              <ul>
+                <li>Installer le sous-système
+                  <a href="https://www.microsoft.com/store/productId/9MSVKQC78PK6">Debian</a></li>
+                <li>Installer unzip, make, cmake, git,
+                  libusb-1.0-0-dev</li>
+                <li>Monter la partition correspondant a la carte :
+                  sudo mount -t drvfs D: /mnt/d</li>
+                <li>Compiler stlink, installer les binaires et ajouter les règles udev:
+<a href="http://fishpepper.de/2016/09/16/installing-using-st-link-v2-to-flash-stm32-on-linux/">instructions
+ici</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+      <h4>Supports de cours</h4>
+      <ul>
+        <li><b>Cours 1</b>: Introduction aux microcontrôleurs
+            (<a href="cours1.pdf">PDF</a>)
+        </li>
+        <li><b>TP 1</b>: Prise en main des outils de développement
+          (<a href="tp1.pdf">PDF</a>, <a href="tp1.zip">code
+            fourni</a>)
+        </li>
+        <li><b>Cours 2</b>: Les entrées/sorties génériques (GPIO)
+            (<a href="cours2.pdf">PDF</a>)
+        </li>
+        <li><b>TP 2</b>: Pilotes de périphériques
+          (<a href="tp2.pdf">PDF</a>)
+        </li>
+        <li><b>Cours 3</b>: Compilation et débogage
+            (<a href="cours3.pdf">PDF</a>)
+        </li>
+        <li><b>TP 3</b>: Compilation et débogage
+          (<a href="tp3.pdf">PDF</a>)
+        </li>
+        <li><b>TP 4</b>: Interface utilisateur
+          (<a href="tp4.pdf">PDF</a>)
+        </li>
+        <li><b>Cours 4</b>: HAL et communication série
+            (<a href="cours4.pdf">PDF</a>)
+        </li>
+        <li><b>TP 5</b>: Utilisation du périphérique UART
+          (<a href="tp5.pdf">PDF</a>, <a href="tp5-ex1-corr.zip">correction</a>)
+        </li>
+        <li><b>Cours 5</b>: Interruptions
+            (<a href="cours5.pdf">PDF</a>)
+        </li>
+        <li><b>TP 6</b>: Interruptions
+          (<a href="tp6.pdf">PDF</a>)
+        </li>
+        <li><b>Cours 6</b>: Timers
+            (<a href="cours6.pdf">PDF</a>)
+        </li>
+        <li><b>TP 7</b>: Timers et PWM
+          (<a href="tp7.pdf">PDF</a>)
+        </li>
+        <li><b>TP 8 (noté)</b>: Guirlande
+          (<a href="tp8-note.pdf">PDF</a><!-- , <a href="tp8-note-corrections.zip">correction</a> -->)
+        </li>
+        <!-- </li> -->
+        <li><b>Cours 7</b>: Le bus I2C
+            (<a href="cours7.pdf">PDF</a>)
+        </li>
+        <li><b>TP 9</b>: I2C
+          (<a href="tp9.pdf">PDF</a>)
+        </li>
+        <li><b>Cours 8</b>: DMA
+            (<a href="cours8.pdf">PDF</a>)
+        </li>
+        <li><b>TP 10</b>: DMA
+          (<a href="tp10.pdf">PDF</a>)
+        </li>
+      </ul>
+    </div>
+
+    <h3>Bibliographie</h3>
+
+    <a href="https://leanpub.com/mastering-stm32">Carmine Noviello, <i>Mastering STM32</i></a>
+
+    <hr />
+
+    <div id="footer">
+    </div>
+
+  </body>
+</html>

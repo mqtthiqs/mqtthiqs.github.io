@@ -1,0 +1,109 @@
+* Seance 4: Compréhension
+
+** Rappels et raccourcis
+
+*** Arguments par nom
+
+  ex: def f(x: =>Int) = x + x; f(println("coucou"); 2)
+  ex: assert(x==2)
+  object Assert {
+    var enabled = true
+    def assert(b:=>Boolean) = if (enabled && !b) throw new AssertionError()
+  }
+
+*** Range
+
+- to dans Int
+
+- examples:
+  1 to 5 map (_*2)
+  0 until 10 by 2 foreach (println _)
+  1 to 5 ++ List(6,7,8)
+
+** Compréhension
+
+*** Opérations sur les listes
+
+- map, flatMap, filter, (flatten, foreach)
+
+ex:
+  - List(1,2,3) map (_+1)
+  - List(1,2,3) flatMap (List(_,9))
+  - List(1,2,3) filter (_ < 3)
+  - List(List(1,2),List(3,4)).flatten
+
+- exo: flatten et foreach avec les autres
+  def flatten[A](l:List[List[A]]): List[A] = l flatMap (x => x)
+  def foreach[A](l:List[A], f:A=>Unit): Unit= l map f; ()
+
+*** Monades
+
+- mêmes noms et types fonctions sur:
+  - List
+  - Option
+  - Future
+
+|        | map               | flatMap              | filter                      |
+|--------+-------------------+----------------------+-----------------------------|
+| List   | app à ts les elts | app aux élts         | filtre elts                 |
+| Option | app si valeur     | combine deux options | Some si test ok, None sinon |
+| Future | app quand calculé | chaîne deux calculs  | filtre quand calculé        |
+
+- def: une monade T est:
+  - un type avec un paramètre de type T[A]
+  - un "constructeur" A => T[A]
+    ex: x => List(x)
+  - les fonctions map, flatMap et filter avec le bon type
+- chaque monade représente un type de calcul
+
+- ex:
+  def extract[A](z: List[Option[A]]): List[A] = z flatMap (x => x)
+
+*** for-expressions
+
+- du sucre syntaxique pour les expressions à base de map, flatMap,
+  filter
+- ex: for (x <- List(1,2,3))
+
+- syntaxe:
+    (S suite d'énumérateurs séparés par ;)
+  - for (S) E
+    pour chaque élément énuméré, évalue E (et jette sa valeur)
+  - for (S) yield E
+    pour chaque élément énuméré retourne E
+  - énumérateurs:
+    - générateur: x <- E1; ...
+      - E1 doit être une monade (liste)
+      - continue avec les éléments de E1, appelant x chacun
+    - définition: x = E; ...
+      - lie x à l'évaluation de l'expression E
+    - filtre: if E; ...
+      - E doit être un Boolean
+      - filtre les éléments énumérés, ne garde que ceux pour lesquels
+        E est True.
+
+ex:
+- for (x <- List(1,2,3)) { println(x) }    // 1\\2\\3
+- for (x <- 1 to 3) { println(x) }    // 1\\2\\3
+- for (x <- 1 to 6 by 2) yield x*x // List(1,9,25)
+- for (x <- 1 to 7 if x%2==0) yield x     // List(2,4,6)
+- for (x <- List(1,2); y <- List('a', 'b')) yield (x,y)
+- for (x <- 1 to 5 if x%2 == 0; y <- 1 to 5) yield x+y
+
+typage:
+- for (S) E : Unit
+- Si E1 : T[A] (une monade), et E2 : B
+  alors for (x <- E1; ...) yield E2 : T[B]
+
+*** Sémantique par réecriture
+
+- for (S) E2
+     === for (S) yield E2; ()
+
+- for (x <- E1) yield E2 === E1 map (x -> E2)
+- for (x <- E1 if E2; S) yield E3
+     === for (x <- E1 filter (x => E2); S) yield E3
+- for (x <- E1; y <- E2; S) yield E3
+     === E1 flatmap (x => for (y <- E2; S) yield E3)
+- for (x <- E1; y = E2; S) yield E3
+     === for ((x,y) <- for (x <- E1) yield (x, E2); S) yield E3
