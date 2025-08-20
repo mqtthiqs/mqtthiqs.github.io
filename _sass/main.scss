@@ -155,11 +155,10 @@ footer {
 }
 
 section {
-	margin-top: $header-height + 5em;
-	margin-bottom: $footer-height;
+	padding-top: $header-height + 5em;
+	padding-bottom: $footer-height;
 	padding-left: 30%;
 	padding-right: 10%;
-	position: relative;
 
 	p {
 		margin-bottom: 0.5em;
