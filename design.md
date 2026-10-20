@@ -157,4 +157,11 @@ embedded software](https://mqtthiqs.github.io/parasites/) _(2015--2016)_ :
 
 [Open source](https://github.com/mqtthiqs/parasites) under MIT license.
 
+### Dissemination
+
+- [IRCAM Forum](https://forum.ircam.fr/article/detail/grm-tools-atelier-workshop/) (GRM Tools Atelier workshop, Paris and Enghien-les-Bains, 18-21 March 2026)
+- [Elektronmusikstudion (EMS)](https://elektronmusikstudion.se/en/guest-composers/guest-composers-2026/matthias-puech/) (guest composer residency, Stockholm, 9-15 March 2026; [GRM Tools Atelier masterclass](https://elektronmusikstudion.se/en/aktuellt/masterclass-grm-tools-atelier/) on 14 March)
+- [IRCAM STMS lab](https://medias.ircam.fr/fr/media/e194c937df7eebeb20ac) (presentation of GRM Tools Atelier, 17 September 2025)
+- [Sound Arguments 2025](https://orpheusinstituut.be/en/news/sound-arguments-2025) (guest artist and digital instrument design workshop, Orpheus Instituut, Ghent, 3-4 March 2025)
+
 <div style="clear: both;"></div>
