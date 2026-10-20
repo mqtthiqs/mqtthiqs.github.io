@@ -33,6 +33,8 @@ layout: default
 
 ## Live
 
+- [Villa Sonora](https://villamedici.it/programme/villa-sonora/) with [Enrique Ramírez](https://villamedici.it/resident/enrique-ramirez/) (Villa Medici, Rome, 17 July 2026)
+- Festival [Ondes Croisées](https://conservatoire.legrandchalon.fr/decouvrir/spectacles/ondes-croisees_1) (French premiere of _Créature_ and _GRM Tools Atelier_ presentation, Chalon-sur-Saône, 10 October 2025)
 - gneration (Live + masterclass, Braga, Portual, 8 November 2024)
 - Le Mans Sonore 2024 (Le Mans, France, 25 January 2024)
 - Louvre Lens with [Enrique Ramírez](http://www.enriqueramirez.net/) (Lens, 4 November 2023)

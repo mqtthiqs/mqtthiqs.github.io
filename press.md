@@ -7,6 +7,18 @@ title: Press
 
 ---
 
+### [SynMag](https://www.instagram.com/p/DZei7Huk_hU/?img_index=1) (DE, Jun 2026)
+
+[Feature](https://radialverlag.de/synmag-115) on Matthias Puech and GRM Tools Atelier.
+
+### [Base Camp Beta](https://podcasts.apple.com/no/podcast/bcb-103-multichannel-installation-at-fouriers-tomb/id1459124314?i=1000758611684&l=nb) (Apr 2026)
+
+Episode 103, "Multichannel Installation at Fourier's Tomb," about GRM, Atelier, Eurorack development, and composing for the Acousmonium.
+
+### [Les Sondiers](https://lessondiers.com/emissions/des-maths-la-fabrication-dinstruments-de-musique-ft-matthias-puech-2) (FR, Jun 2025)
+
+Podcast conversation about music, instrument design, mathematics, 4ms instruments, and GRM Tools Atelier.
+
 #### [The Wire Magazine](https://www.thewire.co.uk/in-writing/interviews/life-in-the-inert-emily-bick-speaks-with-matthias-puech) (Emily Bick, GB, Jun 2021)
 
 Interview around the release of _"A Geography of Absence"_.
@@ -56,8 +68,12 @@ Interview from _Digital in Berlin_
 ---
 
 ## Radio
-
-
+****
+- [Byron Westbrook: Chromatic Fields](https://www.mixcloud.com/dublab/byron-westbrook-chromatic-fields-021126/) (dublab, Feb 2026)
+- [A Duck in a Tree: Stretch and Release](https://zovietfrance.podbean.com/e/a-duck-in-a-tree-2025-12-06-stretch-and-release/) (first broadcast 6 Dec 2025; includes _Polyphármakos_)
+- [EarSpace](https://totallyradio.com/shows/earspace/episodes/earspace-04-dec-2025) (Totally Radio, 4 Dec 2025)
+- [Richard Chartier: Between Two Points](https://www.dublab.com/archive/richard-chartier-between-two-points-11-25-25) (dublab, Nov 2025)
+- [Cosmic Shieeeet, PIÑATA RADIO](https://www.instagram.com/p/DSkT2_BjKlw/?img_index=2) (Instagram)
 - [The Wire Magazine](https://www.thewire.co.uk/audio/on-air/derek-walmsley-presents-adventures-in-sound-and-music-hands-in-the-dark-special), Derek Walmsley (Resonance FM, UK, November 2021)
 - [Emily Bick presents Adventures In Sound And Music](https://www.thewire.co.uk/audio/on-air/emily-bick-presents-adventures-in-sound-and-music-61169) (Resonance FM, UK, April 2021)
 - [Ultrasons](https://www.lyl.live/episode/ultrasons-20) (LYL, FR, April 2021)
@@ -81,6 +97,21 @@ Interview from _Digital in Berlin_
 ---
 
 ## Reviews
+
+### _La Traversée_
+
+- [Indie Rock Mag](https://www.indierockmag.com/article38548.html) (21 Nov 2025)
+- [Chain D.L.K.](https://chaindlk.com/reviews/13322) (14 Jan 2026)
+- [EtherReal](https://www.etherreal.com/spip.php?article7166) (15 Jan 2026)
+- [African Paper](https://africanpaper.com/2025/11/17/la-traversee-neue-lp-von-matthias-puech/) (DE, Nov 2025)
+
+### _GRM Tools Atelier_
+
+- [Sound On Sound](https://www.soundonsound.com/reviews/grm-tools-atelier) (Mar 2026)
+Rory Dow calls GRM Tools Atelier "an absolute tour de force".
+
+- [Andrew Huang](https://www.youtube.com/watch?v=XTdfmkD0jOk): Atelier featured in second place in Andrew Huang's top ten.
+
 
 ### _A Geography of Absence_
 
