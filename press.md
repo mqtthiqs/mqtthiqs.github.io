@@ -7,6 +7,10 @@ title: Press
 
 ---
 
+#### [Fundación Mar Adentro](https://fundacionmaradentro.cl/en/noticias/enrique-ramirez-matthias-puech-meridien/) (Nov 2026)
+
+Interview with Enrique Ramírez and Matthias Puech about _Meridien_, sound, time, and their collaboration.
+
 #### [SynMag](https://www.instagram.com/p/DZei7Huk_hU/?img_index=1) (DE, Jun 2026)
 
 [Feature](https://radialverlag.de/synmag-115) on Matthias Puech and GRM Tools Atelier.
