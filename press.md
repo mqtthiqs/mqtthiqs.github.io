@@ -7,19 +7,19 @@ title: Press
 
 ---
 
-### [SynMag](https://www.instagram.com/p/DZei7Huk_hU/?img_index=1) (DE, Jun 2026)
+#### [SynMag](https://www.instagram.com/p/DZei7Huk_hU/?img_index=1) (DE, Jun 2026)
 
 [Feature](https://radialverlag.de/synmag-115) on Matthias Puech and GRM Tools Atelier.
 
-### [Base Camp Beta](https://podcasts.apple.com/no/podcast/bcb-103-multichannel-installation-at-fouriers-tomb/id1459124314?i=1000758611684&l=nb) (Apr 2026)
+#### [Base Camp Beta](https://podcasts.apple.com/no/podcast/bcb-103-multichannel-installation-at-fouriers-tomb/id1459124314?i=1000758611684&l=nb) (Apr 2026)
 
 Episode 103, "Multichannel Installation at Fourier's Tomb," about GRM, Atelier, Eurorack development, and composing for the Acousmonium.
 
-### [Stromkult](https://www.stromkult.com/index.php/feature/262-interview-matthias-puech) (DE, Jan 2026)
+#### [Stromkult](https://www.stromkult.com/index.php/feature/262-interview-matthias-puech) (DE, Jan 2026)
 
 Interview about background, work with 4ms, GRM Tools, and the development of GRM Tools Atelier.
 
-### [Les Sondiers](https://lessondiers.com/emissions/des-maths-la-fabrication-dinstruments-de-musique-ft-matthias-puech-2) (FR, Jun 2025)
+#### [Les Sondiers](https://lessondiers.com/emissions/des-maths-la-fabrication-dinstruments-de-musique-ft-matthias-puech-2) (FR, Jun 2025)
 
 Podcast conversation about music, instrument design, mathematics, 4ms instruments, and GRM Tools Atelier.
 
