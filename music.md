@@ -34,6 +34,7 @@ title: Music
 
 ## Live
 
+- [Performance sonora](https://www.mnba.gob.cl/cartelera/performance-sonora-de-enrique-ramirez-y-matthias-puech) with Enrique Ramírez (Hall MNBA, Museo Nacional de Bellas Artes, Santiago, 8 November 2026)
 - [Meridien](https://fundacionmaradentro.cl/en/noticias/poligonal-n7-encuentro-arte-naturaleza-temporalidades/) with [Enrique Ramírez](https://www.enriqueramirez.net/) (Poligonal N°7, Chilean Museum of Pre-Columbian Art, Santiago, 7 November 2026)
 - [Villa Sonora](https://villamedici.it/programme/villa-sonora/) with [Enrique Ramírez](https://villamedici.it/resident/enrique-ramirez/) (Villa Medici, Rome, 17 July 2026)
 - Festival [Ondes Croisées](https://conservatoire.legrandchalon.fr/decouvrir/spectacles/ondes-croisees_1) (French premiere of _Créature_ and _GRM Tools Atelier_ presentation, Chalon-sur-Saône, 10 October 2025)
