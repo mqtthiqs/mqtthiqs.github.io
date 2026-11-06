@@ -88,6 +88,9 @@ Interview from _Digital in Berlin_
 
 - [Sound On Sound](https://www.soundonsound.com/reviews/grm-tools-atelier) (Mar 2026)
 Rory Dow calls GRM Tools Atelier "an absolute tour de force".
+- [Data Broth](https://www.databroth.com/blog/atelier-review) (Oct 2025)
+- [Rekkerd.org](https://rekkerd.org/review-grm-tools-atelier/) (Josh Turvey, Mar 2026)
+- [Sonic Field](https://sonicfield.org/grm-tools-atelier) (eme isaza, Jul 2026)
 - [Andrew Huang](https://www.youtube.com/watch?v=XTdfmkD0jOk): Atelier featured in second place in Andrew Huang's top ten.
 
 ### _A Geography of Absence_
