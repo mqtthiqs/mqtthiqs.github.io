@@ -24,6 +24,7 @@ title: Music
 
 ## Compilations
 
+- _"Surface Tension"_ in [_Synthetic Water Music_](https://mappa.bandcamp.com/album/synthetic-water-music)   ([_mappa_](https://mappa.bandcamp.com/), 10 September 2026)
 - _"Un signe sylvestre"_ in [_Synthetic Bird Music_](https://mappa.bandcamp.com/album/synthetic-bird-music)
   ([_mappa_](https://mappa.bandcamp.com/), 15 November 2023)
 - _"Dans le noir"_ in [_Connection: sculpting silence_](https://hyletapes.bandcamp.com/album/connection-sculpting-silence) compilation
