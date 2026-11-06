@@ -85,3 +85,32 @@ title: Music
 - Mix for the [Riots in Brixton](https://www.mixcloud.com/RiotsInBrixton/riots-in-brixton-scene-35-matthias-puech-290118) podcast, commissioned by Vito Lucente (Jan. 18)    
 - Mix for [Hands On Deck](https://www.mixcloud.com/lylradio/hands-on-deck-8/) on LYL radio, commissioned by Hands in the Dark
   Records (Oct 18)
+
+---
+
+## Radio plays
+
+- [Byron Westbrook: Chromatic Fields](https://www.mixcloud.com/dublab/byron-westbrook-chromatic-fields-021126/) (dublab, Feb 2026)
+- [_:zoviet*france:_, A Duck in a Tree: Stretch and Release](https://zovietfrance.podbean.com/e/a-duck-in-a-tree-2025-12-06-stretch-and-release/) (6 Dec 2025)
+- [Robin Rimbaud: EarSpace](https://totallyradio.com/shows/earspace/episodes/earspace-04-dec-2025) (Totally Radio, 4 Dec 2025)
+- [Richard Chartier: Between Two Points](https://www.dublab.com/archive/richard-chartier-between-two-points-11-25-25) (dublab, Nov 2025)
+- [Cosmic Shieeeet, PIÑATA RADIO](https://www.instagram.com/p/DSkT2_BjKlw/?img_index=2) (Instagram)
+- [The Wire Magazine](https://www.thewire.co.uk/audio/on-air/derek-walmsley-presents-adventures-in-sound-and-music-hands-in-the-dark-special), Derek Walmsley (Resonance FM, UK, November 2021)
+- [Emily Bick presents Adventures In Sound And Music](https://www.thewire.co.uk/audio/on-air/emily-bick-presents-adventures-in-sound-and-music-61169) (Resonance FM, UK, April 2021)
+- [Ultrasons](https://www.lyl.live/episode/ultrasons-20) (LYL, FR, April 2021)
+- [L'Expérimentale](https://www.radiofrance.fr/francemusique/podcasts/l-experimentale/concert-multiphonies-2-2461808) (France Musique, FR, November 2020)
+- [L'Expérimentale](https://www.francemusique.fr/emissions/l-experimentale/concert-festival-presences-en-co-production-avec-le-grm-partie-2-69722) (France Musique, FR, March 2019)
+- [E-Lodie](https://www.100komma7.lu/program/episode/226935/201811032100-201811032200) (Radio 100.7, LU, November 2018)
+- [Un Canon sur le Zinc](http://uncanonsurlezinc.fr/index.php/2018/12/07/emission-ucslz-21/), (Radio Distorsion, FR, November 2018)
+- [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-show-29th-october-2018) (NTS, UK, October 2018)
+- [Sterrenplaten](https://www.mixcloud.com/Sterrenplaten/sterrenplaten-26-oktober-2018-sarah-davachi/) (Radio Scorpio, BE, October 2018)
+- [Hands on Deck](http://lyl.live/show/hands-on-deck/) (LYL Radio, FR, September 2018)
+- [Schizophrénie](http://schizocism.blogspot.com/2018/09/23-septembre-2018.html) (CISM, CA, September 2018)
+- [Low Bias](https://www.nts.live/shows/low-bias-show/episodes/the-low-bias-9th-july-2018) (NTS, UK, July 2018)
+- [Rue de Plaisance](https://soundcloud.com/varoslavmusic/juillet-2018-varoslav-gaffarel) (Rinse FM, FR, July 2018)
+- [Schizophrénie](http://schizocism.blogspot.com/2018/07/8-juillet-2018.html) (CISM, CA, July 2018)
+- [Is This Thing On](https://www.nts.live/shows/is-this-thing-on/episodes/is-this-thing-on-w-hector-plimmer-17th-june-2018) (NTS, UK, June 2018)
+- [Fractal Meat](https://fractalmeat.wordpress.com/2018/06/18/episode-141-guest-megamix-from-noyzlab/) (NTS, UK, June 2018)
+- [Vie Garantie](https://soundcloud.com/lemellotron/vie-garantie-gustave-evrard) (Le Mellotron, FR, June 2018)
+- [Adventures in Sound and Music](https://www.mixcloud.com/TheWireMagazine/adventures-in-sound-and-music-hosted-by-gustave-evrard-and-conor-walker-2-november-2017/) (Resonance FM, UK, November 2017)
+- [Doing Time](https://www.nts.live/shows/doing-time/episodes/doing-time-4th-june-2017) (NTS, UK, June 2017)
