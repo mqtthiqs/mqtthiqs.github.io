@@ -75,11 +75,11 @@ Interview from _Digital in Berlin_
 
 ---
 
-## Radio
-****
+## Radio plays
+
 - [Byron Westbrook: Chromatic Fields](https://www.mixcloud.com/dublab/byron-westbrook-chromatic-fields-021126/) (dublab, Feb 2026)
-- [A Duck in a Tree: Stretch and Release](https://zovietfrance.podbean.com/e/a-duck-in-a-tree-2025-12-06-stretch-and-release/) (first broadcast 6 Dec 2025; includes _Polyphármakos_)
-- [EarSpace](https://totallyradio.com/shows/earspace/episodes/earspace-04-dec-2025) (Totally Radio, 4 Dec 2025)
+- [_:zoviet*france:_, A Duck in a Tree: Stretch and Release](https://zovietfrance.podbean.com/e/a-duck-in-a-tree-2025-12-06-stretch-and-release/) (6 Dec 2025)
+- [Robin Rimbaud: EarSpace](https://totallyradio.com/shows/earspace/episodes/earspace-04-dec-2025) (Totally Radio, 4 Dec 2025)
 - [Richard Chartier: Between Two Points](https://www.dublab.com/archive/richard-chartier-between-two-points-11-25-25) (dublab, Nov 2025)
 - [Cosmic Shieeeet, PIÑATA RADIO](https://www.instagram.com/p/DSkT2_BjKlw/?img_index=2) (Instagram)
 - [The Wire Magazine](https://www.thewire.co.uk/audio/on-air/derek-walmsley-presents-adventures-in-sound-and-music-hands-in-the-dark-special), Derek Walmsley (Resonance FM, UK, November 2021)
@@ -117,9 +117,7 @@ Interview from _Digital in Berlin_
 
 - [Sound On Sound](https://www.soundonsound.com/reviews/grm-tools-atelier) (Mar 2026)
 Rory Dow calls GRM Tools Atelier "an absolute tour de force".
-
 - [Andrew Huang](https://www.youtube.com/watch?v=XTdfmkD0jOk): Atelier featured in second place in Andrew Huang's top ten.
-
 
 ### _A Geography of Absence_
 
