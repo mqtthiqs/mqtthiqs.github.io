@@ -89,6 +89,7 @@ Interview from _Digital in Berlin_
 - [Sound On Sound](https://www.soundonsound.com/reviews/grm-tools-atelier) (Mar 2026)
 Rory Dow calls GRM Tools Atelier "an absolute tour de force".
 - [Create Digital Music](https://cdm.link/grm-atelier-sneak-peak/) (Peter Kirn, May 2025)
+- [Polarity](https://polarity.me/posts/polarity-music/2025-05-12-grmtools-atelier-at-superbooth-semi-modular-toolbox-that-looks-fresh/) (May 2025)
 - [Data Broth](https://www.databroth.com/blog/atelier-review) (Oct 2025)
 - [Rekkerd.org](https://rekkerd.org/review-grm-tools-atelier/) (Josh Turvey, Mar 2026)
 - [Sonic Field](https://sonicfield.org/grm-tools-atelier) (eme isaza, Jul 2026)
